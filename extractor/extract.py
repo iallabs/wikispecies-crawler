@@ -2,7 +2,7 @@ listspecial = ';[](),{=}'
 listword = []
 
 
-@staticmethod
+
 def extract_important(file, list_word):
     with open(file) as f:
         # d = f.readlines()
