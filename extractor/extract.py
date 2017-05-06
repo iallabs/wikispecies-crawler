@@ -4,7 +4,7 @@ class extract():
         self.listspecial = ';[](),={}'
         
         def extract_from(file):
-            with open('C:\data.txt', 'r', encoding = 'utf-8', errors= 'ignore') as f:
+            with open(file, 'r', encoding = 'utf-8', errors= 'ignore') as f:
                 for lines in f:
                     if len(lines) == 0:
                         continue
