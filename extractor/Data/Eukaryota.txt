@@ -1,0 +1,1343 @@
+[[File:Eukaryota diversity 2.jpg|thumb|220px|Eukaryota]]
+[[File:FluorescentCells.jpg|thumb|220px|Eukaryota]]
+==Taxonavigation==
+{{Eukaryota}}
+Regna (Whittaker & Margulis, 1978): [[Animalia]] – [[Plantae]] – [[Fungi]] – [[Protista]] <br />
+Regna (Cavalier-Smith, 1981): [[Animalia]] – [[Plantae]] – [[Fungi]] – [[Chromista]] – [[Protozoa]] <br />
+Supergroups (Cavalier-Smith, 2009): [[Bikonta]] – [[Unikonta]]<br />
+Groups (Adl et al., 2012): [[Amoebozoa]] – [[Opisthokonta]] – [[Excavata]] – [[Sar]] ([[Stramenopiles]] – [[Alveolata]] – [[Rhizaria]]) – [[Archaeplastida]] – ''[[Incertae sedis Eukaryota|Incertae sedis]]'' <br>
+Regna (Ruggiero et al., 2015): [[Protozoa]] – [[Chromista]] – [[Fungi]] – [[Plantae]] – [[Animalia]]
+
+==Name==
+Eucaryotes {{aut|Chatton}}, 1925, 1937/1938, {{aut|Chadefaud}}, 1960
+
+'''Synonyms'''
+* Karyonta {{aut|Novák}}, 1930
+* Eukaryonta {{aut|Fott}}, 1959 (according to {{aut|Round}}, 1973), {{aut|Möhn}}, 1984
+* Eucaryota {{aut|Christensen}}, 1962, {{aut|Allsopp}}, 1969
+* Eucaryotae {{aut|Murray}}, 1968
+* Caryonta {{aut|Novák}}, 1969
+* Eukaryota {{aut|Fott}}, 1971, {{aut|Stent}}, 1971, {{aut|Margulis}}, 1974, {{aut|Whittaker}} & {{aut|Margulis}}, 1978
+* Eucytota {{aut|Jeffrey}}, 1971
+* Eukaryotae {{aut|Parker et al.}}, 1982 [?]
+* Eucarya {{aut|Woese et. al.}}, 1990
+* Eukarya {{aut|Margulis}}, 1996 (not {{aut|Dougherty}}, 1957, see {{aut|Sapp}}, 2005)
+
+
+__TOC__
+
+==Alternative classifications==
+===Chatton (1925)===
+Chatton, É. (1925). ''Pansporella perplexa'', amoebien à spores protégées parasite de daphnies. Réflexions sur la biologie et la phylogénie des protozoaires. ''Annales des Sciences Naturelles, Zoologie'', Série 10 VIII: 5–84, [http://gallica.bnf.fr/ark:/12148/bpt6k55415433/f8.tableDesMatieres]. See Kussakin & Drozdov (1994), [https://books.google.com.br/books?id=55u_OsgxEiYC&lpg=PP1&hl=pt-BR&pg=PA25#v=onepage&q&f=false], Katscher (2004), [http://www.redorbit.com/news/science/81637/the_history_of_the_terms_prokaryotes_and_eukaryotes/].
+
+
+[p. 76ː]
+* [[Prokaryota|Procaryotes]]
+** [[Cyanophycae]]
+** [[Bacteriacae]]
+** [[Spirochaetacae]]
+* [[Eukaryota|Eucaryotes]]
+** [[Mastigiae]]
+*** [[Flagellata]]
+*** [[Rhizopoda]]
+*** [[Sporozoa]]
+** [[Ciliae]]
+** [[Cnidiae]]
+
+
+[p. 77ː]
+* [[Prokaryota|Procaryotes]]
+** [[Cyanophycées]]
+** [[Bacteriacées]]
+** [[Spirochaetacées]]
+* [[Eukaryota|Eucaryotes]]
+** ([[Protomastigiés]])
+** [[Phéoflagellées]]
+** [[Diatomées]]
+** [[Phéophycées]]
+** [[Rhodophycées]]
+** [[Chrysomonadines]]
+** [[Cryptomonadines]]
+** [[Dinoflagellés]]
+** [[Cystoflagellés]]
+** [[Protéomyxés]]
+** [[Foraminifères]]
+** [[Héliozoaires]]
+** [[Radioláires]]
+** ([[Procnidiés]])
+** [[Paramyxidies]]
+** [[Microsporidies]]
+** [[Myxosporidies]]
+** [[Actinomyxidies]]
+** [[Cnidaires]]
+** [[Métazoaires]]
+** [[Zooflagellés]]
+** [[Hypermastigines]]
+** [[Heteromastigines]]
+** [[Sporozoaires]]
+** [[Holomastigines]]
+** [[Choanoflagellés]]
+** [[Spongiaires]]
+** [[Mastigamoebiens]]
+** [[Mycétozoaires]]
+** [[Haplosporidies]]
+** [[Monamoebiens]]
+** [[Schizosporidies]]
+** [[Pélomyxiens]]
+** [[Théchamoebiens]]
+** [[Synamoebiens]]
+** [[Sporamoebiens]]
+** [[Entamoebiens]]
+** [[Ciliés]]
+** [[Acinétiens]]
+** [[Mycoflagellés]]
+** [[Chytridinées]]
+** [[Phycomycètes]]
+** [[Champignons]]
+** [[Chloroflagellés]]
+** [[Eugléniens]]
+** [[Chlamydomonadines]]
+** [[Volvocines]]
+** [[Chlorophycées]]
+** [[Archegoniates]]
+
+===Chadefaud & Emberger (1960)===
+Chadefaud, M. & Emberger, L. (éds.). ''Traité de botanique systématique''. Masson et Cie., Paris. Tome I. Les végétaux non vasculaires (Cryptogamie), par M. Chadefaud, 1960, 1 vol. de 1016 pages, [https://books.google.com/books?id=AanPAAAAMAAJ]. Tome II. Les végétaux vasculaires, par L. Emberger, 1960, deux fascicules, 1540 pages, [https://books.google.com.br/books?id=bqnPAAAAMAAJ], [https://books.google.com.br/books?id=zanPAAAAMAAJ].
+
+Monde vivant
+* [[Prokaryota|Protocaryotes]] (= Schizophytes)
+* '''Eucaryotes'''
+** [[Algae|Algues Eucaryotes]] (= Phycophytes)
+** [[Fungi|Champignons]] (= Mycophytes)
+** Plantes a cormus, Plantes supérieures, [[Cormophyta|Cormophytes]], ou Archégoniates
+** [[Animalia|Animaux]], ou Zoaires (Protozoaires, Métazoaires)
+
+===Jeffrey (1971)===
+Jeffrey, C. 1971. Thallophytes and kingdoms - a critique. ''Kew. Bull.'', 25, 291-299. See Brands, S.J. (comp.) 1989-present. ''The Taxonomicon''. Universal Taxonomic Services, Zwaag, The Netherlands, [http://taxonomicon.taxonomy.nl/TaxonTree.aspx?id=71306&tree=0.1&syn=1].
+
+*Superkingdom [[Acytota]]
+*Superkingdom [[Prokaryota|Procytota]]
+*Superkingdom '''Eucytota''' 
+**Kingdom Rhodobiota 
+**Kingdom Chromobiota
+**Kingdom Zoobiota 
+**Kingdom Mycobiota
+**Kingdom Chlorobiota
+
+===Margulis (1971)===
+Margulis, L. 1971. Whittaker's five kingdoms of organisms: minor revisions suggested by considerations of the origin of mitosis. ''Evolution'' 25:242-245.
+
+* "[[Prokaryota|prokaryotes]]"
+** Kingdom [[Monera]]
+* "[[Eukaryota|eukaryotes]]"
+** Kingdom [[Protista]]
+** Kingdom [[Fungi]] ([[Amastigomycota]]): [[Zygomycota]], [[Ascomycota]] and [[Basidiomycota]]
+** Kingdom [[Animalia]] ([[Metazoa]])
+** Kingdom [[Plantae]] ([[Metaphyta]]): [[Bryophyta]] and [[Tracheophyta]]
+
+===Leedale (1974)===
+
+Leedale, G. F. (1974). How many are the kingdoms of organisms? ''Taxon'', 23 (1974), pp. 261–270, [http://www.jstor.org/discover/10.2307/1218705?sid=21106029685753&uid=4&uid=2]. See Whittaker in Kreir (1977), [https://books.google.com/books?id=7LhnsneLkesC&lpg=PP1&hl=&pg=PA28#v=onepage&q&f=false]
+
+[“Pteropod” scheme, p. 267:]
+*Prokaryote ([[Monera]])
+** [[Cyanophyta]]
+** [[Bacteria]]
+*'''Eukaryote'''
+** [[Plantae]]
+*** [[Rhodophyta]]
+*** [[Oomycota]], [[Bacillariophyta]], [[Xanthophyta]], [[Chrysophyta]], [[Phaeophyta]]
+*** [[Chlorophyta]], [[Charophyta]], [[Bryophyta]], [[Tracheophyta]]
+*** [[Cryptophyta]]
+*** [[Haptophyta]]
+*** [[Dinophyta]]
+*** [[Euglenophyta]]
+** [[Fungi]]
+*** [[Chytridiomycota]]
+*** [[Hyphochytridiomycota]]
+*** [[Zygomycota]], [[Basidiomycota]], [[Ascomycota]]
+*** [[Myxomycota]]
+*** [[Ascomycota]]
+*** [[Plasmodiophoromycota]]
+** [[Animalia]]
+*** [[Zoomastigina]]
+*** [[Sarcodina]]
+*** [[Mesozoa]]
+*** [[Ciliophora]]
+*** [[Coelenterata]], [[Platyhelminthes]], [[Aschelminthes]], [[Tentaculata]], [[Annelida]], [[Mollusca]], [[Arthropoda]], [[Chaetognatha]], [[Echinodermata]], [[Chordata]], [[Hemichordata]]
+*** [[Sporozoa]]
+*** [[Porifera]]
+*** [[Cnidosporidia]]
+
+[“Fan” scheme, p. 269:]
+*Prokaryote ([[Monera]])
+** [[Cyanophyta]]
+** [[Bacteria]]
+*'''Eukaryote'''
+** [[Rhodophyta]]
+** [[Plantae]] ([[Chlorophyta]], [[Charophyta]], [[Bryophyta]], [[Tracheophyta]])
+** [[Heterokonta|Heterokonts]] ([[Oomycota]], [[Bacillariophyta]], [[Xanthophyta]], [[Chrysophyta]], [[Phaeophyta]])
+** [[Eustigmatophyta]]
+** [[Haptophyta]]
+** [[Cryptophyta]]
+** [[Dinophyta]]
+** [[Chytridiomycota]]
+** [[Fungi]] ([[Zygomycota]], [[Basidiomycota]], [[Ascomycota]])
+** [[Euglenophyta]]
+** [[Zoomastigina]]
+** [[Myxomycota]]
+** [[Sarcodina]]
+** [[Ciliophora]]
+** [[Sporozoa]]
+** [[Porifera]]
+** [[Animalia]] ([[Coelenterata]], [[Platyhelminthes]], [[Annelida]], [[Mollusca]], [[Arthropoda]], [[Echinodermata]], [[Chordata]], etc.)
+** [[Mesozoa]]
+
+===Margulis (1974a)===
+Margulis, L. (1974a). Five-kingdom classification and the origin and evolution of cells. ''Evol. Biol.'' 7, 45-78, [https://books.google.com.br/books?id=qOfTBwAAQBAJ&lpg=PA83&hl=pt-BR&pg=PA67#v=onepage&q&f=false].
+
+* Superkingdom (chromosomal organization = [[Prokaryota]])
+** Kingdom [[Monera]]
+*** Subkingdom [[Bacteria]]
+*** Subkingdom Aerobic photosynthesizers
+* Superkingdom (chromosomal organization = [[Eukaryota]])
+** Kingdom [[Protista]] ( or [[Protoctista]])
+*** Grade [[Nonmitotica]]
+*** Grade [[Mitotica]]
+** Kingdom [[Fungi]]
+** Kingdom [[Animalia]]
+** Kingdom [[Plantae]]
+
+===Margulis (1974b)===
+Margulis, L. (1974b). The classification and evolution of prokaryotes and eukaryotes. In: ''Handbook of Genetics'', Vol. 1, R. C. King, (ed.), Plenum, New York, pp. 1-41, [https://books.google.com/books?id=lfUHCAAAQBAJ].
+
+* Superkingdom (chromosomal organization) [[Prokaryota]]
+** Kingdom [[Monera]]
+*** Subkingdom [[Bacteria]]
+* Superkingdom (chromosomal organization) [[Eukaryota]]
+** Kingdom [[Protoctista]]
+*** Grade [[Amitotica]]
+*** Grade [[Mitotica]]
+** Kingdom [[Fungi]]
+** Kingdom [[Animalia]]
+** Kingdom [[Plantae]]
+
+=== Edwards (1976)===
+Edwards, P. (1976). A classification of plants into higher taxa based on cytological and biochemical criteria. ''Taxon'' 25: 529–542.
+
+* [[Procaryota]]
+** [[bacteria]]
+** [[Cyanochlorobionta]] ([[Cyanophyta]])
+* [[Eucaryota]]
+** [[Erythrobionta]] ([[Rhodophyta]])
+** [[Chlorobionta]] ([[Tracheophyta]], [[Bryophyta]], [[Chlorophyta]], [[Euglenophyta]])
+** [[Fungi]] 1  ([[Basidiomycota]], [[Ascomycota]], [[Zygomycota]], [[Chytridiomycota]])
+** [[Ochrobionta]] ([[Phaeophyta]], [[Chrysophyta]], [[Pyrrhophyta]], [[Cryptophyta]])
+** [[Fungi]] 2 ([[Hyphochytridiomycota]], [[Oomycota]], [[Labyrinthulomycota]])
+** [[Myxobionta]] ([[Myxogastriomycota]], [[Acrasiomycota]], [[Dictyosteliomycota]], [[Protosteliomycota]])
+** [[animals]]
+
+===Whittaker & Margulis (1978)===
+Whittaker, R. H. & Margulis, L. (1978). Protist classification and the kingdoms of organisms. ''Biosystems'' 10, 3–18.
+
+* Superkingdom [[Prokaryota]]
+** I. Kingdom [[Monera]]
+* Superkingdom [[Eukaryota]]
+** II. Kingdom [[Protista]] or [[Protoctista]]
+** III. Kingdom [[Fungi]]
+** IV. Kingdom [[Animalia]]
+** V. Kingdom [[Plantae (L.)|Plantae]]
+
+===Cavalier-Smith (1978)===
+Cavalier-Smith, T. (1978). The evolutionary origin and phylogeny of microtubules, mitotic spindles and eukaryote flagella. BioSystems, 10(1), 93-114.
+
+* Super-kingdom [[Eukaryota]]
+** Kingdom 1. [[Aconta]] ([[Rhodophyta]], [[Zygomycetes|zygomycete fungi]], [[Ascomycetes|ascomycete fungi]], [[Basidiomycetes|basidiomycete fungi]], [[Acrasida]])
+** Kingdom 2. [[Haptophyta]]
+** Kingdom 3. [[Cryptophyta]]
+** Kingdom 4. [[Heterokonta]] ([[Eustigmatophyta]], [[chloromonads]], [[Xanthophyta]], [[Oomycetes|biflagellate [=oomycete] fungi]], [[Myxomycetes]], [[Hyphochytriomycetes|hyphochytrid fungi]], [[Phaeophyta]], [[Chrysophyta]], [[Chytridiomycetes|chytrid fungi]], [[Actinopoda]], [[Foraminifera]], [[Amoeboflagellata|amoeboflagellates]], [[Bacillariophyta|diatoms]])
+** Kingdom 5. [[Corticoflagellata]]
+*** [[Dinoflagellata|dinoflagellates]], [[Cnidospora]], [[Coelenterata]], [[Ctenophora]], [[Metamonadina]], [[Ciliata]], [[Sporozoa]]
+*** [[Choanoflagellata]], [[Porofera|sponges]]
+*** [[Opalinida|opalinids]], [[Mesozoa]], [[Eumetazoa|eumetazoans]]
+** Kingdom 6. [[Euglenoida]] ([[Euglenophyta]], [[Kinetoplastida]])
+** Kingdom 7. [[Chlorophyta]] ([[Chlorophyta|chlorophyte algae]], [[Prasinophyta]], [[Bryophyta]], [[Tracheophyta]])
+
+=== Stewart & Mattox (1980)===
+Stewart, K.D. & Mattox, K. (1980). Phylogeny of phytoflagellates. In: ''Phytoflagellates'' (ed. E.Cox), New York: Elsevier/North Holland, pp. 433–462, [https://books.google.com/books?id=J48WAQAAIAAJ], [http://onlinelibrary.wiley.com/doi/10.1111/j.1550-7408.1981.tb02851.x/abstract].
+
+[[Eukaryotes]] [p. 456]
+
+* Kingdom [[Dinobiota]] [with tubular cristae]
+** [[Dinophyceae]]
+** [[Bacillariophyceae]]
+** [[Bicosoecida]]
+** [[Chloromonadophyceae]]
+** [[Chrysophyceae]]
+** [[Ciliophora]]
+** [[Eustigmatophyceae]]
+** [[Myxomycetes]]
+** [[Oomycetes]]
+** [[Opalinata]]
+** [[Phaeophyceae]]
+** [[Prymnesiophyceae]]
+** [[Xanthophyceae]]
+* Kingdom [[Bodonobiota]]  [with flattened (lamellar) cristae]
+** [[Ascomycetes]]
+** [[Basidiomycetes]]
+** [[Chlorophyta]]
+** [[Choanoflagellida]]
+** [[Chytridiomycetes]]
+** [[Cryptophyceae]]
+** ''[[Cyanophora]]''
+** [[Euglenophyceae]]
+** [[Animalia|Higher animals]]
+** [[Plantae|Higher plants]]
+** [[Kinetoplastida]]
+** [[Rhodophyceae]]
+
+===Cavalier-Smith (1981)===
+Cavalier-Smith, T. (1981). Eukaryote kingdoms: seven or nine?. ''Biosystems'', 14(3), 461-481, [http://www.researchgate.net/publication/223340981_Eukaryote_kingdoms_Seven_or_nine].
+
+''Nine eukaryote kingdoms proposal'' [p. 462]
+*Superkingdom [[Prokaryota]]
+**Kingdom [[Bacteria]]
+*** Subkingdom [[Eubacteria]]
+*** Subkingdom [[Archaebacteria]]
+*Superkingdom '''Eukaryota'''
+** Kingdom 1. [[Eufungi]]
+** Kingdom 2. [[Ciliofungi]]
+** Kingdom 3. [[Animalia]]
+** Kingdom 4. [[Biliphyta]]
+** Kingdom 5. [[Viridiplantae]]
+** Kingdom 6. [[Euglenozoa]]
+** Kingdom 7. [[Protozoa]]
+** Kingdom 8. [[Cryptophyta]]
+** Kingdom 9. [[Chromophyta]]
+
+''Five eukaryote kingdoms proposal'' [p. 476-477]
+*Superkingdom '''Eukaryota'''
+**Kingdom 1. Fungi (Ciliofungi + Eufungi)
+**Kingdom 2. Chromista (Cryptophyta + Chromophyta)
+**Kingdom 3. Plantae (Viridiplantae + Biliphyta)
+**Kingdom 4. Protista (Euglenozoa + Protozoa)
+**Kingdom 5. Animalia
+
+''Seven eukaryote kingdoms proposal'' [p. 478]
+*Superkingdom '''Eukaryota'''
+** Kingdom Fungi
+** Kingdom Viridiplantae
+*** Phylum Chlorophyta
+*** Phylum Bryophyta
+*** Phylum Tracheophyta
+** Kingdom Biliphyta
+*** Phylum Biliphyta
+**** Class Rhodophyceae
+**** Class Glaocophyceae
+** Kingdom Chromista
+** Kingdom Animalia
+** Kingdom Euglenozoa
+** Kingdom Protozoa
+
+=== Parker et al. (1982)===
+Parker, S. P. (ed.). 1982. ''Synopsis and classification of living organisms''. 2 vols. McGraw-Hill, New York, [https://books.google.com/books?id=Y6oRAQAAMAAJ], [https://books.google.com/books?id=DJA6LDS6cXgC]. See Brands (1989-2005), [http://sn2000.taxonomy.nl/parker/1982/classification/1.htm] 
+
+*Superkingdom [[Prokaryota|Prokaryotae]]
+**Kingdom [[Virus]]
+**Kingdom [[Monera]]
+*Superkingdom '''Eukaryotae'''
+**Kingdom [[Plantae (L.)|Plantae]]
+**Kingdom [[Protista]] (Haeckel, 1866)
+**Kingdom [[Animalia]] 1758
+
+[Note: this classification is redundant for some ambiregnal protists. See Taylor et al. (1986), [http://www.iapt-taxon.org/historic/Congress/IBC_1987/Prop331-334.pdf].]
+
+===Cavalier-Smith (1983)===
+Cavelier-Smith, T. 1983. A 6-kingdom classification and a unified phylogeny. Pp. 1027–1034 in ''Endocytobiology II'' (H.E.A. Schenk and W. Schwemmler, eds.). De Gruyter, Berlin, [https://books.google.com/books?id=Mn0XAQAAIAAJ], [https://books.google.com/books?id=dOaODP4Oo5kC&lpg=PP1&hl=&pg=PA245#v=onepage&q&f=false].
+
+* 1. [[Prokaryota]]
+** Kingdom 1. [[Bacteria]]
+* 2. [[Eukaryota]]
+** Kingdom 1. [[Protozoa]] ([[Archezoa]], [[Sarcomastigota]], [[Euglenozoa]] and [[Choanociliata]])
+** Kingdom 2. [[Animalia]]  ([[Parazoa]] and [[Metazoa]])
+** Kingdom 3. [[Fungi]]  ([[Ciliofungi]] and [[Eufungi]])
+** Kingdom 4. [[Plantae]] ([[Biliphyta]] and [[Viridiplantae]])
+** Kingdom 5. [[Chromista]] ([[Cryptophyta]] and [[Chromophyta]])
+
+===Möhn (1984)===
+From ''System und Phylogenie der Lebewesen'', [http://www.schweizerbart.de/publications/detail/isbn/9783510651177/Mohn_System_und_Phylogenie_der_Lebewese], [http://d-nb.info/840554230/04].
+
+Superkingdom '''Eukaryonta'''
+* Suprakingdom [[Aconta]] 
+** Kingdom [[Rhodocyanobionta]]
+*** Phylum [[Cyanidiophyta]]
+** Kingdom [[Erythrobionta]] 
+*** Phylum [[Rhodophyta]]
+* Suprakingdom [[Contophora]]
+** Kingdom [[Chlorobionta]]
+*** Phylum [[Prasinophyta]]
+*** Phylum [[Charophyta]]
+*** Phylum [[Ulvaphyta]]
+*** Phylum [[Chlorophyta]]
+** Kingdom [[Flagelloopalinida]]
+*** Phylum [[Protomonada]]
+*** Phylum [[Opalinidea]]
+** Kingdom [[Euglenophytobionta]]
+*** Phylum [[Euglenophyta]]
+** Kingdom [[Eumycota]] 
+*** Phylum [[Opisthomastigomycota]]
+*** Phylum [[Amastigomycota]]
+** Kingdom [[Dinophytobionta]]
+*** Subkingdom [[Dinophytea]] 
+**** Phylum [[Dinophyta]]
+**** Phylum [[Granuloreticulosa]]
+**** Phylum [[Acanthiolaria]]
+**** Phylum [[Polannulifera]] 
+*** Subkingdom [[Ciliata]]
+**** Phylum [[Ciliophora]]
+** Kingdom [[Crytophytobionta]]
+*** Phylum [[Crytophyta]]
+** Kingdom [[Colponemata]] 
+*** Phylum [[Colponemaria]]
+** Kingdom [[Chloromonadophytobionta]] 
+*** Phylum [[Chloromonadophyta]] 
+** Kingdom [[Chromophytobionta]]
+*** Subkingdom [[Chromobionta]] 
+**** Phylum [[Xanthophyta]]
+**** Phylum [[Pantonemomycota]]
+**** Phylum [[Proteomyxidea]]
+**** Phylum [[Labyrinthomorpha]]
+**** Phylum [[Chrysophyta]]
+**** Phylum [[Hydraulea]]
+**** Phylum [[Trichomycetea]]
+**** Phylum [[Mycetozoidea]]
+**** Phylum [[Pedinellaphyta]]
+**** Phylum [[Bacillariophyta]]
+**** Phylum [[Phaeophyta]]
+*** Subkingdom [[Eustigmatobionta]] 
+**** Phylum [[Eustigmatophyta]]
+*** Subkingdom [[Choanobionta]] 
+**** Phylum [[Craspedophyta]] 
+*** Subkingdom [[Haptophytobionta]] 
+**** Phylum [[Haptophyta]] 
+* Suprakingdom [[Cormobionta]]
+* Suprakingdom [[Animalia]]
+** Middle-kingdom [[Parazoa]]
+*** Kingdom [[Porifera]]
+*** Kingdom [[Archeata]]
+*** Kingdom [[Placozoomorpha]]
+** Middle-kingdom [[Eumetazoa]] 
+*** Kingdom [[Radiata]]
+**** Phylum [[Cnidaria]]
+**** Phylum [[Ctenophora]]
+*** Kingdom [[Bilateria]]
+
+===Lipscomb (1985)===
+Lipscomb, Diana. 1985. The eukaryotic kingdoms. ''Cladistics'' 1: 127–40.
+
+[[Eukaryotes]]
+* Group 1
+** [[Cryptomonadida]] ([[Cryptophyceae]])
+** [[Chloromonadida]] ([[Chloromonadophyceae]])
+** [[Prymnesiida]] ([[Prymnesiophyceae]])
+** [[Phaeophyceae]]
+** [[Chrysomonadida]] ([[Chrysophyceae]])
+** [[Xanthomonadida]] ([[Xanthophyceae]])
+** [[Eustigmatomonadida]] ([[Eustigmatophyceae]])
+* Group 2
+** [[Prasinomonadida]] ([[Prasinophyceae]]) 
+** [[Phytomonadida]] ([[Chlorophyceae]]) 
+** [[Gameophyceae]]
+* Group 3
+** [[Ascomycetes]]
+** [[Zygornycetes]]
+* Group 4
+** [[Trypanosomatina]]
+** [[Bodonina]]
+** [[Euglenida]] ([[Euglenophyceae]])
+** [[Stephanopogonida]]
+* Group 5
+** [[Dinoflagellida]] ([[Dinophyceae]])
+** [[Ciliophora]]
+** [[Schizophrynida]]
+** [[Opalinida]]
+* Group 6
+** [[Choanoflagellida]]
+** [[Porifera]]
+** [[Mesozoa]]
+** [[Cnidaria]]
+** [[Placozoa]]
+** [[Acoelomata]]
+* Group 7
+** [[Oomycetes]]
+** [[Chytridiomycetes]]
+* Group 8
+** [[Hypermastigida]]
+** [[Trichomonadida]]
+** [[Retortamonadida]]
+** [[Diplomonadida]]
+** [[Oxymonadida]]
+** [[Proteromonadida]]
+** [[Bicosoecia]]
+* Group 9
+** [[Rhodophyceae]]
+
+[Note: some eukaryote groups are not included in Lipscomb analysis.]
+
+===Corliss (1986)===
+From ''The kingdoms of organisms: from a microscopist’s point of view''.
+
+Superkingdom '''Eukaryota'''
+* Kingdom [[Animalia]]
+* Kingdom [[Plantae]]
+* Kingdom [[Fungi]]
+* Kingdom [[Protista]]
+
+=== Starobogatoff (1986)===
+Старобогатов Я.И. К вопросу о числе царств эукариотных организмов. // ''Труды Зоологического института АН СССР''. 1986. T. 144. С. 4-25.
+
+Starobogatoff, Y.I. 1986. On the number of kingdoms of eukaryotic organisms. ''Trudy Zoologicheskogo Instituta'' 144: 4–25 (in Russian). From Pelentier, B. (2007-2015), [https://web.archive.org/web/20140202201721/http://www.empirebiota.info/].
+
+[[Eukaryota]]
+* Superkingdom [[Akonta]]
+** Kingdom [[Rhodymeniontes]]
+** Kingdom [[Mycota]]
+* Superkingdom [[Lamellicristata]]
+** Kingdom [[Cryptomonadontes]]
+** Kingdom [[Euglenontes]]
+** Kingdom [[Plantae]]
+** Kingdom [[Animalia]]
+* Superkingdom [[Tubulicristata]]
+** Kingdom [[Ellipsoidiontes]]
+** Kingdom [[Peridiniontes]]
+** Kingdom [[Chromulinontes]]
+
+===Lipscomb (1989)===
+Lipscomb, D. (1989). Relationships among the eukaryotes. In: ''The Hiearchy of Life'', B. Fernholm, K. Bremer, & H. Jornvall (eds.), Elsevier, New York. pp. 161-178, [https://books.google.com/books?hl=&id=0udqAAAAMAAJ]. From Pelentier, B. (2007-2015), [https://web.archive.org/web/20140202201721/http://www.empirebiota.info/].
+
+[[Eukaryotes]]
+*Rhodophyca
+*Supergroup 1
+**Plantae
+**Supergroup 2
+***Cryptomonada
+***Supergroup 3
+****Amebae+Oomycota+Chromobiota+Heliozoa
+****Supergroup 4
+*****Polymastigota
+*****Animalia+(Choanozoa+Fungi)
+*****Opalinida+Dinociliata+Euglenaria
+
+===Lipscomb (1991)===
+Lipscomb, D. (1991). Broad classification: the kingdoms and the protozoa. In: ''Parasitic Protozoa'', Vol. 1, 2nd ed. J.P. Kreier & J.R. Baker (eds.). Academic Press, San Diego. pp. 81-136, [http://webcache.googleusercontent.com/search?q=cache:_QZWtzBB8qAJ:external.dandelon.com/download/attachments/dandelon/ids/DE0061FE8DDEF629432A1C1257A360045985B.pdf+&cd=12&hl=pt-BR&ct=clnk&gl=br].
+
+[[Eukaryotes]]
+*1. [[Rhodophyta]]
+*2. [[Chlorobionts]]
+*3. [[Cryptophytes]]
+*4. [[Chromobionts]]
+*5. [[Polymastigotes]]
+*6. [[Animals]]
+*7. [[Amoeboflagellates]]
+*8. [[Opalinids]]
+*9. [[Dinoflagellates]] and [[Ciliates]]
+*10. [[Euglenozoa]]
+
+===Corliss (1994)===
+From ''An Interim Utilitarian ("User-friendly") Hierarchical Classification and Characterization of the Protists''.
+
+Empire '''Eukaryota'''
+* Kingdom [[Archezoa]]
+* Kingdom [[Protozoa]]
+* Kingdom [[Chromista]]
+* Kingdom [[Plantae]]
+* Kingdom [[Fungi]]
+* Kingdom [[Animalia]]
+
+=== Kussakin & Drozdov (1994)===
+Кусакин О.Г, Дроздов А.Л. 1994. ''Филема органического мира''. Часть 1. Пролегомены к построению филемы. С.-Петербург: Наука, [https://books.google.com.br/books?id=55u_OsgxEiYC&lpg=PP1&hl=pt-BR&pg=PA281#v=onepage&q&f=false].
+
+Kussakin O.G., Drozdov A.L. (1994). ''Phylema of the living beings''. Part 1. Prolegomena to the construction of phylema. Nauka, St.-Petersburg (in Russian).
+
+* Imperia Non-cellulata (= Acytota)
+* Imperia Cellulata Vorontsov, 1965
+** Dominion [[Archae]] (= [[Archaebacteria]] auct.)
+** Dominion [[Bacteria]] (= [[Eubacteria]] auct.)
+** Dominion [[Eukaryota]]
+*** Subdominion [[Archekaryota]]
+**** Kingdom [[Microsporobionta]]
+**** Kingdom [[Archemonadobionta]] (= [[Polymastigobionta]])
+*** Subdominion [[Metakaryota]]
+**** Kingdom [[Rhodobionta]]
+**** Kingdom [[Cryptobionta]]
+**** Kingdom [[Euglenobionta]]
+**** Kingdom [[Dinobionta]]
+**** Kingdom [[Chromobionta]] s. lato (= [[Tubularistata]])
+**** Kingdom [[Chlorobionta]] (= [[Viridiplantae]])
+**** Kingdom [[Mycobionta]] (= [[Fungi]])
+**** Kingdom [[Inferiobionta]] (= [[Parazoa]])
+**** Kingdom [[Metazoa]]
+** Incertae sedis: [[Myxospora]], [[Chlorarachnida]], ''[[Gyromitus]]'', ''[[Discocelis]]'', ''[[Jacoba]]''
+
+===Cavalier-Smith (1995)===
+Cavalier-Smith, T. (1995). Zooflagellate phylogeny and classification. In: ''The biology of free-living heterotrophic flagellates'' (ed. S.A. Karpov), ''Cytology'' [''Tsitologiia''], 37 (11): 1010–1029, [http://www.ncbi.nlm.nih.gov/pubmed/8868448].
+
+[[Eukaryota]]
+* Kingdom [[Archezoa]]
+* Kingdom [[Protozoa]]
+* Kingdom [[Cryptista]]
+* Kingdom [[Chromista]]
+* Kingdom [[Plantae]]
+* Kingdom [[Animalia]]
+* Kingdom [[Fungi]]
+
+=== Starobogatov (1995)=== 
+Starobogatov, Y. I. (1995). The position of flagellated protists in the system of lower eukaryotes. In: The biology of free-living heterotrophic flagellates (ed. S.A. Karpov), ''Cytology'', 37 (11): 1030–7, [https://books.google.com/books?lr&hl=&id=UshKAAAAYAAJ]. Also in: Abstracts of the Second International Symposium on the Biology of Free-living Heterotrophic Flagellates: 14th – 20th August 1994 – St. Petersburg, Russia. ''Europ. J. Protistol.'' 31, 109-118, [http://www.sciencedirect.com/science/article/pii/S0932473911803639].
+
+[[Eukaryota]]
+* Superkingdom [[Akonta]]
+** Kingdom [[Rhodymeniontes]]
+** Kingdom [[Mycota]]
+* Superkingdom [[Lamellicristata]]
+** Kingdom [[Cryptomonadontes]]
+** Kingdom [[Euglenontes]]
+** Kingdom [[Plantae]]
+** Kingdom [[Animalia]]
+* Superkingdom [[Tubulicristata]]
+** Kingdom [[Peridiniontes]]
+** Kingdom [[Chromulinontes]]
+
+===Margulis (1996)===
+From ''Archaeal-eubacterial mergers in the origin of Eukarya: Phylogenetic classification of life'' [http://www.pnas.org/content/93/3/1071.full.pdf].
+
+'''Eukarya''' (= '''Eukaryotae''')
+* [[Protoctista]]
+* [[Fungi]]
+* [[Plantae]]
+* [[Animalia]]
+
+===Hausmann & Hülsmann (1996)===
+From Hausmann, K., N. Hülsmann. ''Protozoology''. 2nd ed. Thieme Verlag; New York, 1996. [http://www.spektrum.de/lexikon/biologie-kompakt/einzeller/3449]
+
+Empire '''Eukaryota'''
+* Kingdom [[Microspora]]
+** Phylum [[Microspora]]
+*** Class [[Rudimicrosporea]]
+*** Class [[Microsporea]]
+* Kingdom [[Mastigota]]
+** Subkingdom [[Archamoebaea]]
+*** Phylum [[Karyoblasta]]
+** Subkingdom [[Dimastigota]]
+*** Superphylum [[Tetramastigota]]
+**** Phylum [[Retortamonada]]
+***** Class [[Retortamonadea]]
+***** Class [[Diplomonadea]]
+**** Phylum [[Axostylata]]
+***** Class [[Oxymonadae]]
+***** Class [[Parabasalea]]
+****** Order [[Trichomonadida]]
+****** Order [[Polymonadida]]
+****** Order [[Hypermastigida]]
+*** Superphylum [[Metakaryota]]
+**** Phylum [[Euglenozoa]]
+***** Subphylum [[Euglenida]]
+****** Class [[Euglenoidea]]
+****** Class [[Hemimastigophorea]]
+***** Subphylum [[Kinetoplasta]]
+****** Class [[Bodonea]]
+****** Class [[Trypanosomatidea]]
+***** Subphylum [[Pseudociliata]]
+**** Phylum [[Heterolobosa]]
+***** Class [[Schizopyrenidea]]
+***** Class [[Acrasea]]
+**** Phylum [[Dictyostela]]
+**** Phylum [[Protostela]]
+**** Phylum [[Myxogastra]]
+**** Phylum [[Chromista]]
+***** Subphylum [[Prymnesiomonada]]
+***** Subphylum [[Cryptomonada]]
+***** Subphylum [[Heterokonta]]
+****** Class [[Proteromonadea]]
+****** Class [[Opalinea]]
+****** Class [[Chrysomonadea]]
+****** Class [[Heteromonadea]]
+****** Class [[Labyrinthulea]]
+****** Class [[Raphidomonadea]]
+****** Class [[Plasmodiophorea]]
+****** Class [[Bicosoecidea]]
+**** Phylum [[Alveolata]]
+***** Subphylum [[Dinoflagellata]]
+***** Subphylum [[Apicomplexa]]
+******Class [[Gregarinea]]
+******Class [[Coccidea]]
+******Class [[Haematozoea]]
+***** Subphylum [[Ciliophora]]
+****** Superclass [[Postciliodesmatophora]]
+******* Class [[Karyorelictea]]
+******* Class [[Spirotrichea]]
+******** Subclass [[Heterotrichea]]
+******** Subclass [[Oligotrichia]]
+******** Subclass [[Stichotrichia]]
+******** Subclass [[Hypotrichia]]
+****** Superclass [[Rabdophora]]
+******* Class [[Prostomatea]]
+******* Class [[Litostomatea]]
+******** Subclass [[Haptoria]]
+******** Subclass [[Trichostomatia]]
+****** Superclass [[Cyrtophora]]
+******* Class [[Phyllopharyngia]]
+******** Subclass [[Phyllopharyngia]]
+******** Subclass [[Chonotrichia]]
+******** Subclass [[Suctoria]]
+******* Class [[Nassophorea]]
+******* Class [[Oligohymenophorea]]
+******** Subclass [[Hymenostomatia]]
+******** Subclass [[Peritrichia]]
+******** Subclass [[Astomatia]]
+******** Subclass [[Apostomatia]]
+******* Class [[Colpodea]]
+**** Phylum [[Choanoflagellata]]
+**** Phylum [[Chlorophyta]]
+***** Class [[Prasinomonadea]]
+**** [[Metakaryota]] ''incertae sedis''
+***** [[Amoebozoa]]
+****** [[Lobosea]]
+******* [[Gymnamoebia]]
+******* [[Testacealobosia]] 
+****** [[Acarpomyxea]]
+****** [[Filosea]]
+***** [[Granuloreticulosa]]
+****** [[Athalamea]]
+****** [[Monothalamea]]
+****** [[Foraminiferea]]
+***** [[Actinopoda]]
+****** [[Acantharea]]
+****** [[Polycystinea]]
+****** [[Phaeodarea]] 
+****** [[Heliozoea]]
+***** [[Ascetospora]]
+****** [[Haplosporea]] 
+****** [[Paramyxea]]
+***** [[Myxozoa]]
+
+===Cavalier-Smith (1998)===
+From ''A revised six-kingdom system of life'', [http://cyanophora.rutgers.edu/cyanophora/pdfs/9809012.pdf].
+
+*Empire or Superkingdom 1. [[Prokaryota]]
+*Empire or Superkingdom 2. '''Eukaryota'''
+**Kingdom 1. [[Protozoa]] Goldfuss 1818 stat. nov. Owen 1858 em. [almost certainly paraphyletic]
+**Kingdom 2. [[Animalia]] Linnaeus 1758 em. Cavalier-Smith 1995 (unnecessary synonym Metazoa Haeckel 1874)
+**Kingdom 3. [[Fungi]] Linnaeus 1753 stat. nov. Nees 1817 em.
+**Kingdom 4. [[Plantae]] Haeckel 1866 em. Cavalier-Smith 1981
+**Kingdom 5. [[Chromista]] Cavalier-Smith 1981 em.
+
+=== Kussakin & Drozdov (1998)===
+КусакинО Г., ДроздовА. Л. 1998. ''Филема органического мира''. Часть 2. Прокариоты и низшие эукариоты. С.-Петербург: Наука, [https://books.google.com.br/books?id=CD8-Px190vcC&lpg=PP1&hl=pt-BR&pg=PA356#v=onepage&q&f=false].
+
+Kussakin O.G., Drozdov A.L. (1998). ''Phylema of the living beings''. Part 2. Prokaryotes and Lower Eukaryotes. Nauka, St.-Petersburg (in Russian).
+
+* Imperia Cellulata Vorontsov, 1965
+** [[Prokaryota]]
+*** Dominion [[Archaebacteria]]
+*** Dominion [[Eubacteria]]
+** Dominion [[Eukaryota]]
+*** Kingdom [[Microsporobiontes]]
+*** Kingdom [[Archemonadobiontes]]
+*** Kingdom [[Euglenobiontes]]
+*** Kingdom [[Myxobiontes]]
+*** Kingdom [[Rhodobiontes]]
+*** Kingdom [[Alveolates]]
+*** Kingdom [[Heterokontes]]
+
+===Patterson (1999)===
+Patterson, D. J. (1999). The diversity of eukaryotes. ''The American Naturalist'', 154($1–$2): S96-S124. [http://pinkava.asu.edu/starcentral/eutree_workshop/protistiary/electronmicroscopy/Patterson_1999_amnat.PDF].
+
+* "Eukaryotic taxa without known sister groups"
+** [[Acantharea]]
+** [[Actinophryids]]
+** [[Alveolates]]
+** ''[[Ancyromonas]]''
+** [[Apusomonads]]
+** ''[[Biomyxa]]''
+** ''[[Caecitellus]]''
+** ''[[Carpediemonas]]''
+** [[Centroheliozoa]]
+** [[Cercomonads]]
+** [[Chlorarachniophytes]]
+** ''[[Coelosporidium]]''
+** ''[[Collodictyon]]''
+** [[Copromyxids]]
+** ''[[Cryothecomonas]]''
+** [[Cryptomonads]]
+** [[Desmothoracids]]
+** [[Dimorphids]]
+** ''[[Diphylleia]]''
+** [[Diplomonads]]
+** ''[[Discocelis]]''
+** [[Ebriids]]
+** [[Ellobiopsids]]
+** [[Entamoebidae]]
+** [[Euglenozoa]]
+** ''[[Fonticula]]''
+** [[Glaucophytes]]
+** [[Granuloreticulosa]]
+** [[Gymnophrea]]
+** [[Gymnosphaerida]]
+** [[Haplosporids]]
+** [[Haptophytes]]
+** [[Heterolobosea]]
+** ''[[Hyperamoeba]]''
+** [[Jakobids]]
+** [[Kathablepharids]]
+** [[Komokiacea]]
+** ''[[Luffisphaera]]''
+** [[Microsporidia]]
+** [[Ministeria]]
+** ''[[Multicilia]]''
+** [[Nephridiophagids]]
+** [[Nucleariidae]]
+** [[Opisthokonts]]
+** [[Oxymonads]]
+** [[Parabasalids]]
+** [[Paramyxea]]
+** [[Pelobionts]]
+** [[Phaeodarea]]
+** ''[[Phagodinium]]''
+** ''[[Phalansterium]]''
+** [[Plasmodiophorids]]
+** [[Polycystinea]]
+** [[Pseudodendromonads]]
+** ''[[Pseudospora]]''
+** [[Ramicristates]]
+** [[Red algae]]
+** ''[[Reticulomyxa]]''
+** [[Retortamonads]]
+** [[Rosette agent]]
+** [[Spironemidae]]
+** [[Spongomonads]]
+** ''[[Stephanopogon]]''
+** ''[[Sticholonche]]''
+** [[Stramenopiles]]
+** ''[[Telonema]]''
+** [[Thaumatomonads]]
+** ''[[Trimastix]]''
+** [[Vampyrellids]]
+** [[Viridaeplantae]]
+** [[Xenophyophores]]
+*"[[Incertae sedis Eukaryota|Protista without contemporary identity]]"
+
+===Hausmann et al. (2003)===
+From Hausmann, K., N. Hulsmann, R. Radek. ''Protistology''. 3rd ed. Schweizerbart'sche Verlagsbuchshandlung, Stuttgart, 2003.
+
+Empire '''Eukaryota''' Chatton, 1925 (= '''Eukarya''') 
+*Phylum [[Tetramastigota]] Hulsmann & Hausmann, 1994 
+*Phylum [[Discicristata]] Cavalier-Smith, 1998
+*Phylum [[Hemimastigophora]] Foissner et al., 1988
+*Phylum [[Pseudociliata]] Corliss & Lipscomb, 1985 
+*Phylum [[Chromista]] Cavalier-Smith, 1987 
+*Phylum [[Alveolata]] Cavalier-Smith, 1992 
+*Phylum [[Cercozoa]] Cavalier-Smith, 1998 
+*Phylum [[Foraminifera]] d'Orbigny, 1828 (= [[Granuloreticulosa]])
+*Phylum [[Biliphyta]] Cavalier-Smith, 1981
+*Phylum [[Viridiplantae]] Cavalier-Smith, 1981 (= [[Chlorobionta]]) 
+*Phylum [[Amoebozoa]] Luhe, 1913 
+*Phylum [[Opisthokonta]] Cavalier-Smith & Chao, 1995 
+*[[Incertae sedis Eukaryota|Eukaryota incertae sedis]]
+:*[[Actinopoda]] Calkins, 1902 
+:*[[Paramyxea]] Levine, 1979
+
+=== Cavalier-Smith (2003) ===
+From ''Protist phylogeny and the high-level classification of Protozoa'', [http://www.sciencedirect.com/science/article/pii/S093247390470108X].
+
+'''Eukaryota'''
+*Kingdom [[Protozoa]] [11 phyla, out of brackets] [paraphyletic]
+**[clade [[Unikonta|unikonts]]]
+***Phylum 1. [[Amoebozoa]]
+***[clade [[Opisthokonta|opisthokont]]s]
+****Phylum 2. [[Choanozoa]]
+****[Kingdom [[Animalia]]]
+****[Kingdom [[Fungi]]]
+**[clade [[Bikonta|bikonts]]]
+***[clade cabozoa]
+****Infrakingdom [[Rhizaria]]
+*****Phylum 3. [[Cercozoa]] 
+*****Phylum 4. [[Retaria]] ([[Radiozoa]], [[Foraminifera]])
+****Infrakingdom [[Excavata]] 
+*****Phylum 5. [[Loukozoa]]
+*****Phylum 6. [[Metamonada]]
+*****Phylum 7. [[Euglenozoa]]
+*****Phylum 8. [[Percolozoa]]
+***[Kingdom [[Plantae]] ([[Viridaeplantae]], [[Rhodophyta]], [[Glaucophyta]])]
+***[clade [[Chromalveolata|chromalveolate]]s]
+****[Kingdom [[Chromista]] ([[Cryptista]], [[Heterokonta]], [[Haptophyta]])]
+****Infrakingdom [[Alveolata]]
+*****Phylum 9. [[Ciliophora]] 
+*****Phylum 10. [[Miozoa]] ([[Protalveolata]], [[Dinozoa]], [[Apicomplexa]])
+***Phylum 11. [[Apusozoa]] ([[Thecomonadea]], [[Diphylleida]])
+
+=== Cavalier-Smith (2004) ===
+From ''Only six kingdoms of life'', [http://www.cladocera.de/protozoa/cavalier-smith_2004_prs.pdf].
+
+Empire [[Eukaryota]] (Cavalier-Smith 1998)
+*Kingdom [[Protozoa]] (Cavalier-Smith 2002a, 2003a)
+*Kingdom [[Animalia]] ([[Myxozoa]] and 21 othera phyla) (Cavalier-Smith 1998; Cavalier-Smith & Chao 2003c)
+*Kingdom [[Fungi]] (phyla [[Archemycota]], [[Microsporidia]], [[Ascomycota]], [[Basidiomycota]]) (Cavalier-Smith 2000b)
+*Kingdom [[Plantae]]
+**Subkingdom [[Biliphyta]] (phyla [[Glaucophyta]], [[Rhodophyta]])
+**Subkingdom [[Viridaeplantae]] ([[Chlorophyta]], [[Bryophyta]], [[Tracheophyta]])
+*Kingdom [[Chromista]]
+**Subkingdom [[Cryptista]] (phylum [[Cryptista]]: cryptophytes, goniomonads, katablepharids)
+**Subkingdom [[Chromobiota]]
+***Infrakingdom [[Heterokonta]] (phyla [[Ochrophyta]], [[Pseudofungi]], [[Opalozoa]] (comprising subphyla [[Opalinata]], [[Sagenista]])
+***Infrakingdom [[Haptista]] (phylum [[Haptophyta]])
+
+===Adl ''et al.'' (2005)===
+From ''The new higher level classification of eukaryotes with emphasis on the taxonomy of protists'', [http://onlinelibrary.wiley.com/doi/10.1111/j.1550-7408.2005.00053.x/pdf].
+
+'''Eukaryota'''
+* [[Amoebozoa]]
+* [[Opisthokonta]]
+* [[Rhizaria]]
+* [[Archaeplastida]]
+* [[Chromalveolata]]
+** [[Cryptophyceae]]
+** [[Haptophyta]]
+** [[Stramenopiles]]
+** [[Alveolata]]
+* [[Excavata]]
+* [[Incertae sedis Eukaryota]]
+
+===Lecointre & Le Guyader (2006)===
+Lecointre, G. & Le Guyader, H. ''Classification phylogénétique du vivant'', 3e éd., Belin, Paris, 2006, [https://fr.wikipedia.org/wiki/Classification_phylog%C3%A9n%C3%A9tique_de_Guillaume_Lecointre_et_Herv%C3%A9_Le_Guyader].
+
+Le vivant
+* [[Eubacteria|Eubactéries]]
+* [[Archaea|Archées]]
+* [[Eukaryota|Eucaryotes]]
+** [[Bikonta|Bicontes]]
+*** [[Archaeplastida|Lignée verte]]
+*** [[Chromalveolata|Chromoalvéolés]]
+**** [[Alveolata|Alvéolobiontes]]
+**** [[Stramenopiles|Straménopiles]]
+**** [[Cryptophyta|Cryptophytes]]
+**** [[Haptophyta|Haptophytes]]
+*** [[Rhizaria|Rhizariens]]
+*** [[Excavata|Excavobiontes]]
+** [[Unikonta|Unicontes]]
+*** [[Amoebozoa|Amoebozoaires]]
+*** [[Opisthokonta|Opisthocontes]]
+**** [[Fungi|Champignons]]
+**** Choano-organismes
+***** [[Choanoflagellata|Choanoflagellés]]
+***** [[Metazoa|Métazoaires]]
+
+===Cavalier-Smith (2009)===
+From ''Megaphylogeny, cell body plans, adaptive zones: causes and timing of eukaryote basal radiations''.
+
+'''Eukaryota'''
+* [[Bikonta]] 
+** [[Apusozoa]]
+** [[Excavata]]
+** [[Rhizaria]]
+** [[Corticata]]
+*** [[Plantae]] ([[Archaeplastida]])
+*** [[Chromalveolata]]
+**** [[Chromista]]
+**** [[Alveolata]]
+* [[Unikonta]]
+** [[Amoebozoa]]
+** [[Opisthokonta]]
+*** [[Choanozoa]]
+*** [[Animalia]]
+*** [[Fungi]]
+
+[Note: Protists not included in the groups Plantae, Chromista, Animalia or Fungi belong in the [[Protozoa]].]
+
+===Cavalier-Smith (2010)===
+Cavalier-Smith, T. (2010). Kingdoms Protozoa and Chromista and the eozoan root of the eukaryotic tree. ''Biol. Lett.'' 6 (3): 342–5, [http://rsbl.royalsocietypublishing.org/content/6/3/342].
+
+'''Eukaryota'''
+* Kingdom [[Protozoa]] [paraphyletic]
+** Subkingdom [[Sarcomastigota]]
+*** [[Amoebozoa]]
+*** [[Apusozoa]]
+*** [[Choanozoa]]
+** Subkingdom [[Eozoa]]
+*** Infrakingdom [[Excavata]]
+*** Infrakingdom [[Euglenozoa]]
+* Kingdom [[Animalia]]
+* Kingdom [[Fungi]]
+* Kingdom [[Plantae]] ([[Glaucophyta]], [[Rhodophyta]], [[Viridiplantae]])
+* Kingdom [[Chromista]]
+** Subkingdom [[Hacrobia]]
+*** [[Cryptista]]
+*** [[Centrohelida|centrohelid Heliozoa]]
+*** [[Haptophyta]]
+** Subkingdom [[Harosa]]
+*** [[Rhizaria]]
+*** [[Halvaria]]
+**** [[Alveolata]]
+**** [[Heterokonta]]
+
+===Adl ''et al.'' (2012)===
+Adl, S. M. et al. (2012). The revised classification of eukaryotes. ''Journal of Eukaryotic Microbiology'' 59 (5): 429–514, [http://www.paru.cas.cz/docs/documents/93-Adl-JEM-2012.pdf]. Erratum: [http://onlinelibrary.wiley.com/doi/10.1111/jeu.12033/full].
+
+[[Eukaryota]]
+* [[Amorphea]] Adl et al., 2012
+** [[Amoebozoa]] Lühe, 1913, emend. Cavalier-Smith 1998 (= [[Eumycetozoa]] Zopf 1884, emend Olive 1975)
+** [[Opisthokonta]] Cavalier-Smith 1987, emend. Adl et al. 2005
+* [[Diaphoretickes]] Adl et al., 2012
+** [[Sar]] Burki et al. 2007
+*** [[Stramenopiles]] Patterson 1989, emend. Adl et al. 2005
+*** [[Alveolata]] Cavalier-Smith 1991
+*** [[Rhizaria]]  Cavalier-Smith 2002
+** [[Archaeplastida]] Adl et al. 2005
+* [[Excavata]] Cavalier-Smith 2002, emend. Simpson 2003
+* [[Incertae sedis Eukaryota]]
+
+===Cavalier-Smith (2013)===
+Cavalier-Smith, T. (2013). Early evolution of eukaryote feeding modes, cell structural diversity, and classification of the protozoan phyla Loukozoa, Sulcozoa, and Choanozoa
+''Eur. J. Protistol.'', 49, pp. 115–178, [http://www.sciencedirect.com/science/article/pii/S0932473912000508].
+
+* [[Eukaryota]] [Figure 1.A proposal]
+** [[Archezoa]]
+*** [[Metamonada]]
+** [[mitozoa]]
+*** [[neozoa]]
+**** [[podiates]] ([[Opisthokonta|opisthokonts]] [= [[Fungi]], [[Animalia]], [[Choanozoa]]] plus [[Amoebozoa]] and [[Sulcozoa]])
+**** [[corticates]] ([[Plantae]] plus [[Chromista]])
+*** [[Neolouka]]
+*** [[Eolouka]] ([[Jakobea]] plus [[Tsukubea]])
+*** [[Discicristata]] ([[Percolozoa]] plus [[Euglenozoa]])
+
+* [[Eukaryota]] [Figure 1.B proposal]
+** [[podiates]] ([[Opisthokonta|opisthokonts]] [= [[Fungi]], [[Animalia]], [[Choanozoa]]] plus [[Amoebozoa]] and [[Sulcozoa]])
+** ''[[Malawimonas]]''
+** "[[bikonts]]"
+*** [[corticates]] ([[Plantae]] plus [[Chromista]])
+*** [[Loukozoa]]
+**** [[Metamonada]]
+**** [[Eolouka]] ([[Jakobea]] plus [[Tsukubea]])
+*** [[Discicristata]] ([[Percolozoa]] plus [[Euglenozoa]])
+
+* [[Eukaryota]] [Figure 1.C proposal]
+** [[neokaryotes]]
+*** [[neozoa]] 
+**** [[podiates]] ([[Opisthokonta|opisthokonts]] [= [[Fungi]], [[Animalia]], [[Choanozoa]]] plus [[Amoebozoa]] and [[Sulcozoa]])
+**** [[corticates]] ([[Plantae]] plus [[Chromista]])
+*** [[Excavata]]
+**** [[Loukozoa]]
+***** ''[[Malawimonas]]''
+***** [[Metamonada]]
+***** [[Jakobea]]
+***** [[Tsukubea]]
+**** [[Percolozoa]]
+** [[Euglenozoa]]
+
+* [[Eukaryota]] [Figure 2 proposal]
+** Kingdom [[Protozoa]]
+*** Subkingdom [[Eozoa]] ([[Euglenozoa]] plus [[Excavata]])
+*** [group [[neozoa]], [[podiates]], in part]
+**** Subkingdom [[Sarcomastigota]] ([[Sulcozoa]] plus [[Amoebozoa]] and [[Choanozoa]])
+** [group [[neozoa]], [[podiates]], in part]
+*** Kingdom [[Fungi]]
+*** Kingdom [[Animalia]]
+** [group [[neozoa]], [[corticates]]]
+*** Kingdom [[Chromista]]
+*** Kingdom [[Plantae]]
+
+===Brown et al. (2013)===
+Brown, M.W., Sharpe, S.C., Silberman, J.D., Heiss, A.A., Lang, B.F., Simpson, A.G.B., Roger, A.J. (2013). Phylogenomics demonstrates that breviate flagellates are related to opisthokonts and apusomonads. ''Proc Biol Sci'' 280(1769):20131755, [http://rspb.royalsocietypublishing.org/content/280/1769/20131755.long].
+
+[[Eukaryota]]
+* [[Amorphea]]
+** [[Amoebozoa]]
+** [[Obazoa]]
+*** [[Breviatea]]
+*** [[Apusomonadida]]
+*** [[Opisthokonta]]
+* [[Diaphoretickes]]
+* [[Excavata]]
+
+===Pawlowski (2013)===
+Pawlowski, J. (2013). The new micro-kingdoms of eukaryotes. ''BMC Biol'' 11:40, [http://www.biomedcentral.com/1741-7007/11/40]. 
+
+[[Eukaryotes]]
+* [[Opisthokonta]]
+* [[Amoebozoa]] (incl. [[Breviatea]])
+* [[Apusomonadidae]]
+* [[Ancyromonadidae]]
+* [[Collodictyonidae]]
+* [[Rigidifilida]]
+* [[Excavata]]
+* [[Katablepharidae]]
+* [[Cryptophyta]]
+* [[Picobiliphyta]]
+* [[Archaeplastida]] (incl. [[Glaucophyta]])
+* [[Centrohelida]]
+* [[Rappemonads]]
+* [[Haptophyta]]
+* [[Telonemia]] 
+* [[SAR]] ([[Rhizaria]], [[Stramenopiles]], [[Alveolata]])
+
+===Paps (2013)===
+Paps, J., Medina-Chacón, L. A., Marshall, W., Suga, H., & Ruiz-Trillo, I. (2013). Molecular phylogeny of unikonts: new insights into the position of apusomonads and ancyromonads and the internal relationships of opisthokonts. ''Protist'', 164(1), 2-12.
+
+[[Eukaryota]]
+* [[Bikonta]]
+* [[Unikonta]]
+** [[Amoebozoa]]
+** [[Apusozoa]]
+** [[Opisthokonta]]
+
+===Boudouresque (2015)===
+Boudouresque, C. F. (2015). Taxonomy and Phylogeny of Unicellular Eukaryotes. In: ''Environmental Microbiology: Fundamentals and Applications'' (pp. 191-257). Springer: Netherlands, [https://books.google.com/books?id=2zVqBgAAQBAJ&lpg=PP1&hl=&pg=PA191#v=onepage&q&f=false].
+
+[[Eukaryota|Eukaryotes]]
+* [[Unikonta|Unikonts]]
+** [[Opisthokonta]] 
+** [[Amoebobionta]] (= [[Amoebozoa]]) 
+* [[Bikonta|Bikonts]]
+** [[Cryptobionta]]
+** [[Archaeplastida]] (= [[Plantae]]) 
+*** Incertae sedis: [[Centrohelida]]
+** [[Rhizaria]]
+** [[Alveolata]]
+** [[Stramenopiles]] (= [[Heterokonta]]) 
+** [[Haptobionta]]
+** [[Discicristata|Discicristates]] 
+** [[Excavata|Excavates]]
+
+[[Eukaryota|Eukaryotes]] [alternative classification]
+* [[Opisthokonta]] 
+* [[Antherokonta]]
+** [[Amoebobionta]] (= [[Amoebozoa]]) 
+** [[Bikonta|Bikonts]]
+
+===Ruggiero et al. (2015)===
+Ruggiero, M.A., Gordon, D.P., Orrell, T.M., Bailly, N., Bourgoin, T., Brusca, R.C., Cavalier-Smith, T., Guiry, M. D. & Kirk, P. M. (2015). A Higher Level Classification of All Living Organisms. ''PLoS ONE'' 10(4): e0119248, [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119248].
+
+* Superkingdom [[Prokaryota]]
+** Kingdom [[Archaea]] [= [[Archaebacteria]]]
+** Kingdom [[Bacteria]] [= [[Eubacteria]]]
+* Superkingdom [[Eukaryota]]
+** Kingdom [[Protozoa]]
+*** Subkingdom [[Eozoa]]
+**** Infrakingdom [[Euglenozoa]]
+**** Infrakingdom [[Excavata]]
+*** Subkingdom [[Sarcomastigota]]
+**** Phylum [[Amoebozoa]]
+**** Phylum [[Choanozoa]] [with [[Microsporidia]], [[Animalia]], and [[Fungi]] constitutes "Supergroup [[Opisthokonta]]"]
+**** Phylum [[Microsporidia]] [with [[Choanozoa]], [[Animalia]], and [[Fungi]] constitutes "Supergroup [[Opisthokonta]]"]
+**** Phylum [[Sulcozoa]]
+** Kingdom [[Chromista]]
+*** Subkingdom [[Hacrobia]]
+*** Subkingdom [[Harosa]] [= "Supergroup [[SAR]]"]
+**** Infrakingdom [[Halvaria]]
+***** Superphylum [[Alveolata]]
+***** Superphylum [[Heterokonta]] [= "Supergroup [[Stramenopiles]]"]
+**** Infrakingdom [[Rhizaria]]
+** Kingdom [[Fungi]]
+*** Subkingdom [[Dikarya]] [= [[Neomycota]]]
+*** Subkingdom [[Eomycota]]
+** Kingdom [[Plantae]] [= [[Archaeplastida]]]
+*** Subkingdom [[Biliphyta]]
+*** Subkingdom [[Viridiplantae]]
+** Kingdom [[Animalia]]
+
+===Derelle et al. (2015)===
+Derelle, R., Torruella, G., Klimeš, V., Brinkmann, H., Kim, E., Vlček, Č., Lang, B.F. & Eliáš, M. (2015). Bacterial proteins pinpoint a single eukaryotic root. ''PNAS'', 201420657, [http://www.pnas.org/content/112/7/E693.full].
+
+[[Eukaryota]]
+* [[Opimoda]]
+** [[Opisthokonta]]
+** [[Amoebozoa]]
+** [[Malawimonadidae|malawimonads]] and [[Collodictyonidae|collodictyonids]]
+* [[Diphoda]]
+** [[Discoba]] ([[Jakobida]], [[Heterolobosea]], and [[Euglenozoa]])
+** [[Diaphoretickes]]
+*** [[Archaeplastida]]
+*** [[Cryptomonadida]]
+*** [[SAR]] ([[Stramenopiles]], [[Alveolata]], [[Rhizaria]])
+
+===Speijer et al. (2015)===
+Speijer, D., Lukeš, J., & Eliáš, M. (2015). Sex is a ubiquitous, ancient, and inherent attribute of eukaryotic life. ''PNAS'', 112(29), 8827-8834, [http://www.pnas.org/content/112/29/8827.short]
+
+[[Eukaryotes]]
+* [[Opimoda]]
+** [[Obazoa]]
+*** [[Opisthokonta]] ([[Metazoa]], [[Choanoflagellata]], [[Filasterea]], [[Ichthyosporea]], [[Opisthosporidia]], [[Fungi]], [[Cristidiscoidea]])
+*** [[Apusomonadida]]
+*** [[Breviatea]]
+** [[Amoebozoa]]
+** [[Collodictyonida]] (=[[Diphyllatea]])
+** [[Rigifilida]]
+** [[Mantamonadida]]
+** [[Ancyromonadida]] (=[[Planomonadida]])
+** [[Malawimonadida]]
+* [[Metamonada]] ([[Fornicata]], [[Parabasalia]], [[Preaxostyla]])
+* [[Diphoda]]
+** [[Discoba]] ([[Heterolobosea]], [[Euglenozoa]], [[Tsukubamonadida]], [[Jakobida]])
+** [[Diaphoretickes]]
+*** [[Archaeplastida]] ([[Rhodophyta]], [[Chloroplastida]], [[Glaucophyta]])
+*** [[SAR]] ([[Stramenopiles]], [[Alveolata]], [[Rhizaria]])
+*** [[Cryptista]] ([[Katablepharida]], [[Cryptomonadida]], [[Palpitomonadida]])
+*** [[Haptophyta]]
+**** ?[[Rappemonads]]
+*** [[Picozoa]]
+*** [[Telonemia]]
+*** [[Centrohelida]]
+**** ?[[Microhelida]]
+
+=== Cavalier-Smith et al. (2015) ===
+Cavalier-Smith, T., Chao, E. E., & Lewis, R. (2015). Multiple origins of Heliozoa from flagellate ancestors: New cryptist subphylum Corbihelia, superclass Corbistoma, and monophyly of Haptista, Cryptista, Hacrobia and Chromista. ''Molecular Phylogenetics and Evolution'', 93, 331-362, [http://www.sciencedirect.com/science/article/pii/S1055790315002080].
+
+[[Eukaryota]]
+* [[Corticata]] (similar to [[photokaryotes]] or [[Diaphoretickes]])
+** [[Plantae]] 
+** [[Chromista]]
+*** [[Harosa]]
+**** [[Rhizaria]]
+**** [[Halvaria]]
+***** [[Heterokonta]]
+***** [[Alveolata]]
+*** [[Hacrobia]]
+**** [[Haptista]]
+**** [[Cryptista]]
+* [[scotokaryotes]]
+** [[Metamonada]]
+** ?[[Neolouka]] (''[[Malawimonas]]'')
+** [[Podiates]] (similar to [[Opimoda]])
+*** [[Sulcozoa]] ([[Varisulca]], ?[[Neolouka]], [[Apusozoa]])
+*** [[opisthokonts]] ([[Animalia]], [[Choanozoa]], [[Fungi]])
+*** [[Amoebozoa]]
+* [[Eozoa]] (similar to [[Discoba]])
+** [[Eolouka]] 
+*** [[Jakobea]]
+*** [[Tsukubamonadea]]
+** [[Percolozoa]]
+** [[Euglenozoa]]
+
+===Silar (2016)===
+Silar, Philippe (2016). ''Protistes Eucaryotes: Origine, Evolution et Biologie des Microbes Eucaryotes''. HAL: 462, [https://hal.archives-ouvertes.fr/hal-01263138/document].
+
+[[Eukaryota]]
+* [[Amorphea]]
+** [[Sulcozoa]]
+** [[Opisthokonta]]
+** [[Amoebozoa]]
+* "[[Excavata]]"
+** [[Metamonada]]
+** [[Discoba]]
+* [[Diaphoretickes]]
+** [[Archaeplastida]]
+** "[[Hacrobia]]"
+** [[Heterokonta]]
+** [[Alveolata]]
+** [[Rhizaria]]
+
+==References==
+* {{aut|Adl, S.M.}} ''et al''. 2005: The new higher level classification of eukaryotes with emphasis on the taxonomy of protists. ''Journal of eukaryotic microbiology'', 52: 399–451. {{doi|10.1111/j.1550-7408.2005.00053.x}} [http://www.fpl.fs.fed.us/documnts/pdf2005/fpl_2005_adl001.pdf PDF]
+* {{aut|Allsopp, A.}} 1969. Phylogenetic relationships of the Procaryota and the origin of the eucaryotic cell. ''New Phytol.'' 68:591-612.
+* {{aut|Baldauf, S.L.}} 2003: The deep roots of eukaryotes. ''Science'', 300: 1703–1706.
+* {{aut|Baldauf, S.L.}}, {{aut|Roger, A.J.}}, {{aut|Wenk-Siefert, I.}}, & {{aut|Doolittle, W.F.}} (2000). A kingdom-level phylogeny of eukaryotes based on combined protein data. ''Science'' 290: 972–977.
+* {{aut|Becerra, A.}}, {{aut|Delaye, L.}}, {{aut|Islas, S.}}, & {{aut|Lazcano, A.}} (2007). The very early stages of biological evolution and the nature of the last common ancestor of the three major cell domains. ''Annual Review of Ecology, Evolution, and Systematics'' 38: 361–379.
+* {{aut|Burki, F.}}; {{aut|Shalchian-Tabrizi, K.}}; {{aut|Minge, M.}}; {{aut|Skjæveland, A.}}; {{aut|Nikolaev, S.I.}}; {{aut|Jakobsen, K.S.}}; {{aut|Pawlowski, J.}} 2007: Phylogenomics reshuffles the eukaryotic supergroups. ''PLoS ONE'', 2: e790. {{doi|10.1371/journal.pone.0000790}}
+* {{aut|Burki, F.}}; {{aut|Shalchian-Tabrizi, K.}}; {{aut|Pawlowski, J.}} 2008: Phylogenomics reveals a new 'megagroup' including most photosynthetic eukaryotes. ''Biology letters'', 4: 366–369. {{doi|10.1098/rsbl.2008.0224}} [http://zoologie.unige.ch/system/pdfs/0000/0006/Burki_biology_letters_2008.pdf PDF]
+* {{aut|Cavalier-Smith, T.}} 1981: Eukaryote kingdoms: seven or nine? ''Biosystems'', 14: 461–481.
+* {{aut|Cavalier-Smith, T.}} 2009: Megaphylogeny, cell body plans, adaptive zones: causes and timing of eukaryote basal radiations. ''Journal of eukaryotic microbiology'', 56: 26–33. {{doi|10.1111/j.1550-7408.2008.00373.x}}
+* {{aut|Chatton, É.}} (1925). ''Pansporella perplexa'', amoebiens à spores protégées parasite de daphnies. Réflections sur la biologie et la phylogénie des protozoaires. ''Annales des Sciences Naturelles, Zoologie'', Série 10 VIII: 5–84.
+* {{aut|Chatton, É.}} (1937/1938). ''Titre et travaux scientifique (1906-1937) de Edouard Chatton''. Sette, Sottano, Italy.
+* {{aut|Christensen, T.}} (1962). Alger. In: T.W. Böcher, M. Lange, and T. Sørensen (eds.). ''Botanik. Bind II. Systematisk botanik.'' Nr. 2, 1–178. I Kommission hos Munksgaard, Copenhagen, [https://books.google.com.br/books?id=NpELAQAAIAAJ].
+* {{aut|Fott, B.}} (1959). ''Algenkunde''. Gustav Fischer, Jena, 482 p. Translation of: ''Sinice a řasy.'' Academia Praha, 1956, [https://books.google.com/books?id=zzxVAAAAMAAJ].
+* {{aut|Fott, B.}} (1971). ''Algenkunde''. 2nd ed. VEB Fischer, Jena, 581 pp., [https://books.google.com.br/books?id=48E9AAAAYAAJ]. Translation of: ''Sinice a řasy.'' 2nd ed., Academia Praha, 515 p., 1967, [https://books.google.com/books?id=gcE9AAAAYAAJ].
+* {{aut|Goloboff, P.A.}}; {{aut|Catalano, S.A.}}; {{aut|Mirande, J.M.}}; {{aut|Szumik, C.A.}}; {{aut|Arias, J.S.}}; {{aut|Källersjö, M.}}; {{aut|Farris, J.S.}} 2009: Phylogenetic analysis of 73 060 taxa corroborates major eukaryotic groups. ''Cladistics'', 25: 211–230. {{doi|10.1111/j.1096-0031.2009.00255.x}}
+* {{aut|Jeffrey, C.}} (1971). Thallophytes and kingdoms - a critique. ''Kew. Bull.'', 25, 291-299. See Brands, S.J. (1989-2015), [http://taxonomicon.taxonomy.nl/TaxonTree.aspx?id=71306&tree=0.1&syn=1].
+* {{aut|Katscher, F.}} (2004). The history of the terms Prokaryotes and Eukaryotes. ''Protist'', 155(2), 257-263, [http://www.redorbit.com/news/science/81637/the_history_of_the_terms_prokaryotes_and_eukaryotes/].
+* {{aut|Keeling, P.J.}}; {{aut|Burger, G.}}; {{aut|Durnford, D.G.}}; {{aut|Lang, B.F.}}; {{aut|Lee, R.W.}}; {{aut|Pearlman, R.E.}}; {{aut|Roger, A.J.}}; {{aut|Gray, M.W.}} 2005: The tree of eukaryotes. ''Trends in ecology and evolution'', 20: 670–676. {{doi|10.1016/j.tree.2005.09.005}} [http://leelab.biology.dal.ca/pdfs/Keelingetal2005.pdf PDF]
+* {{aut|Margulis, L.}} (1996). Archaeal-eubacterial mergers in the origin of Eukarya: phylogenetic classification of life. ''PNAS'', 93(3), 1071-1076, [http://www.pnas.org/content/93/3/1071.full.pdf].
+* {{aut|Minge, M.A.}}; {{aut|Silberman, J.D.}}; {{aut|Orr, R.J.S.}}; {{aut|Cavalier-Smith, T.}}; {{aut|Shalchian-Tabrizi, K.}}; {{aut|Burki, F.}}; {{aut|Skjæveland, A.}}; {{aut|Jakobsen, K.S.}} 2009: Evolutionary position of breviate amoebae and the primary eukaryote divergence. ''Proceedings of the Royal Society'' (B), 276: 597–604. {{doi|10.1098/rspb.2008.1358}}
+* {{aut|Möhn, E.}} 1984: ''System und Phylogenie der Lebewesen. I. Physikalische, chemische und biologische Evolution. Prokaryonta. Eukaryonta. (bis Ctenophora).'' Stuttgart: E. Schweizerbart'sche Verlagsbuchhandlung.
+* {{aut|Murray, R. G. E.}} 1968. Microbial structure as an aid to microbial classification and taxonomy. ''SPISY (Faculté des Sciences de l'Université J. E. Purkyne Brno)'' 34: 249–252.
+* {{aut|Novák, F. A.}} (1930). ''Systematická botanika.'' Praha.
+* {{aut|Novák, V. J. A.}} (1969)  ''Historický vývoj organismů.'' Praha, [https://books.google.com/books?id=sw4JAQAAMAAJ&q].
+* {{aut|Moreira, D.}}, {{aut|von der Heyden, S.}}, {{aut|Bass, D.}}, {{aut|López-García, P.}}, {{aut|Chao, E.}}, & {{aut|Cavalier-Smith, T.}} (2007). Global eukaryote phylogeny: combined small- and large-subunit ribosomal DNA trees support monophyly of Rhizaria, Retaria and Excavata. ''Molecular Phylogenetics and Evolution'' 44: 255–266.
+* {{aut|Parfrey, L.W.}}; {{aut|Barbero, E.}}; {{aut|Lasser, E.}}; {{aut|Dunthorn, M.}}; {{aut|Bhattacharya, D.}}; {{aut|Patterson, D.J.}}; {{aut|Katz, L.A.}} 2006: Evaluating support for the current classification of eukaryotic diversity. ''PLoS Genetics'', 2(12): e220. {{doi|10.1371/journal.pgen.0020220}}
+* {{aut|Roger, A.J.}}; {{aut|Simpson, A.G.B.}} 2009: Evolution: revisiting the root of the eukaryote tree. ''Current biology'', 19: R165-R167. {{doi|10.1016/j.cub.2008.12.032}}
+* {{aut|Round, F. E.}} (1973). ''The Biology of the Algae''. 2nd ed., Edward Arnold, London.
+* {{aut|Sapp, J.}} (2005). The prokaryote-eukaryote dichotomy: meanings and mythology. ''Microbiology and molecular biology reviews'', 69(2), 292-305, [http://mmbr.asm.org/content/69/2/292.full#ref-53]. 
+* {{aut|Simpson, A.G.B.}}; {{aut|Lang, B.F.}}; {{aut|Dacks, J.B.}}; {{aut|Leigh, J.W.}}; {{aut|Hug, L.}}; {{aut|Roger, A.J.}}; {{aut|Hampl, V.}} 2009: Phylogenomic analyses support the monophyly of Excavata and resolve relationships among eukaryotic "supergroups". ''PNAS'', 106: 3859–3864.
+* {{aut|Steenkamp, E. T.}}, {{aut|Wright, J.}}, & {{aut|Baldauf, S. L.}} (2006). The protistan origins of animals and fungi. ''Molecular Biology and Evolution'' 23 (1): 93–106.
+* {{aut|Stent, G.}} (1971). ''Molecular genetics. An introductory narrative''. W.H. Freeman, San Francisco, Ca.
+* {{aut|Whittaker, R. H.}} & {{aut|Margulis, L.}} 1978: Protist classification and the kingdoms of organisms. ''Biosystems'' 10, 3–18.
+* {{aut|Woese, C.}}, {{aut|Kandler, O.}}, & {{aut|Wheelis, M.}} (1990). Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya. ''Proc. Natl. Acad. Sci. U.S.A.'' 87 (12): 4576–4579.
+* {{aut|Yoon, H.S.}}; {{aut|Grant, J.}}; {{aut|Tekle, Y.I.}}; {{aut|Wu, M.}}; {{aut|Chaon, B.C.}}; {{aut|Cole, J.C.}}; {{aut|Logsdon, J.M., jr.}}; {{aut|Patterson, D.J.}}; {{aut|Bhattacharya, D.}}; {{aut|Katz, L.A.}} 2008: Broadly sampled multigene trees of eukaryotes. ''BMC evolutionary biology'', 8:14. {{doi|10.1186/1471-2148-8-14}} [http://www.biomedcentral.com/content/pdf/1471-2148-8-14.pdf PDF]
+
+===Links===
+* {{aut|Wegener Parfrey, Laura}} 2009. [http://eutree.lifedesks.org/pages/43 Taxon page for Eukaryota. In: The ATOL eutree hypothesis] First Created: 2009–07-04T15:11:59Z. Last Updated: 2009–07-04T15:14:20Z.
+* {{aut|Keeling, Patrick, Brian S. Leander, and Alastair Simpson}} 2009. [http://tolweb.org/Eukaryotes/3/2009.03.12 Eukaryotes. Eukaryota, Organisms with nucleated cells. Version 12 March 2009] in [http://tolweb.org/ The Tree of Life Web Project]
+* [http://www.biani.unige.ch/msg/Amoeboids/Eukaryotes.html Tree of Eukaryotes]
+* [http://comenius.susqu.edu/bi/202/DOMAINS/EUKARYA-SUPERGROUPS.htm Eukarya]
+
+== Vernacular names ==
+{{VN
+|als=Eukaryote
+|ar=حقيقية النوى
+|bg=Еукариоти
+|bar=Eikaryóten, Eikaryótner
+|bn=সকেন্দ্রক অধিজগত
+|bs=Eukarioti
+|ca=Eucariota
+|cs=jaderní
+|da=Eukaryoter
+|de=Eukaryoten, Eukaryonten
+|el=Ευκαρυώτες
+|en=eukaryotes
+|eo=Eŭkariotoj
+|es=Eucariontes
+|et=Eukarüoodid, Päristuumsed
+|fa=هسته داران
+|fi=Aitotumaiset
+|fr=Eucaryotes
+|frr=Eukarioten
+|ga=Eocaróit
+|gu=સકેન્દ્રક અધિજગત
+|he=איקריוטיים
+|hi=सकेन्द्रक अधिजगत
+|hr=Eukarioti
+|hu=Eukarióták
+|hy=Կորիզավորներ
+|ia=Eucaryotes
+|is=Heilkjörnungar
+|it=Eucarioti
+|ja=真核生物ドメイン
+|km=សុធញ្ញៈ
+|ko=진핵생물
+|la=Eucaryota
+|lv=Eikariots
+|lt=Eukariotai
+|mk=Еукариоти
+|mr=सकेन्द्रक अधिजगत
+|ne=सकेन्द्रक अधिजगत
+|nl=Eukaryoten
+|no=Eukaryoter
+|oc=Eucariòtas
+|pa=ਸਕੇਂਦਰਕ ਅਧਿਜਗਤ
+|pl=Jądrowce
+|pt=Eucariota
+|pt-br=Eucarionte
+|ro=Eucariote
+|ru=Эукариоты
+|si= සූන්‍යෂ්ටිකයන් (යුකැරියා) 
+|sk=eukaryoty, eukaryonty, jadrové organizmy, nukleobionty, jadrovce
+|sq=Eukariotët
+|sv=Eukaryoter
+|ta=மெய்க்கருவுயிரி
+|tr=Ökaryotlar
+|uk=Еукаріоти
+|vi=Sinh vật nhân chuẩn
+|zh=真核域
+|lb=Eukaryota
+}}
+
+{{commons|Category:Eukaryota|Eukaryota}}
