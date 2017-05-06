@@ -3,6 +3,7 @@ class extract():
         self.wordlist = []
         self.listspecial = ';[](),={}'
         
+        @staticmethod
         def extract_from(file):
             with open(file, 'r', encoding = 'utf-8', errors= 'ignore') as f:
                 for lines in f.read():
