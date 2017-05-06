@@ -5,7 +5,7 @@ class extract():
         
         def extract_from(file):
             with open(file, 'r', encoding = 'utf-8', errors= 'ignore') as f:
-                for lines in f:
+                for lines in f.read():
                     if len(lines) == 0:
                         continue
                     for i in lines:
