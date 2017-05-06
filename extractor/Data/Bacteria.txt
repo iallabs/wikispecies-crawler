@@ -1,0 +1,96 @@
+{{Image|Citrobacter freundii.jpg|''[[Citrobacter freundii]]''}}
+
+==Taxonavigation==
+{{Bacteria}}
+
+Groups: [[Bacteroidetes/Chlorobi group]]&nbsp;– [[Cyanobacteria/Melainabacteria group]]&nbsp;– [[FCB group]]&nbsp;– [[Nitrospinae/Tectomicrobia group]]&nbsp;– [[PVC group]]&nbsp;– [[Terrabacteria group]]
+
+Phyla (overview): [[Acidobacteria]]&nbsp;– [[Actinobacteria (Phylum)|Actinobacteria]]&nbsp;– [[Aquificae (Bacteria)|Aquificae]]&nbsp;– [[Armatimonadetes]]&nbsp;– [[Bacteroidetes]]&nbsp;– [[Balneolaeota]]&nbsp;– [[Caldiserica]]&nbsp;– [[Chlamydiae]]&nbsp;– [[Chlorobi]]&nbsp;– [[Chloroflexi]]&nbsp;– [[Chrysiogenetes (Bacteria)|Chrysiogenetes]]&nbsp;– [[Cyanobacteria]]&nbsp;– [[Deferribacteres (Phylum)|Deferribacteres]]&nbsp;– [[Deinococcus-Thermus]]&nbsp;– [[Dictyoglomi]]&nbsp;– [[Elusimicrobia (Phylum)|Elusimicrobia]]&nbsp;– [[Fibrobacteres]]&nbsp;– [[Firmicutes]]&nbsp;– [[Fusobacteria]]&nbsp;– [[Gemmatimonadetes]]&nbsp;– [[Ignavibacteriae]]&nbsp;– [[Lentisphaerae]]&nbsp;– [[Nitrospinae]]&nbsp;– [[Nitrospirae]]&nbsp;– [[Planctomycetes]]&nbsp;– [[Proteobacteria]]&nbsp;– [[Rhodothermaeota]]&nbsp;– [[Spirochaetes]]&nbsp;– [[Synergistetes]]&nbsp;– [[Tenericutes]]&nbsp;– [[Thermodesulfobacteria (Phylum)|Thermodesulfobacteria]]&nbsp;– [[Thermotogae]]&nbsp;– [[Verrucomicrobia]]
+
+Ordo (incertae sedis): [[Haloplasmatales]] <br>
+
+Genera (incertae sedis): ''[[Bactoderma]]''&nbsp;– ''[[Chlorochromatium]]''&nbsp;– ''[[Deinonema]]''&nbsp;– ''[[Nanobacterium]]''&nbsp;– ''[[Pseudogluconobacter]]''&nbsp;– ''[[Ruminobacillus]]''&nbsp;– ''[[Smegmaraptor]]''&nbsp;– ''[[Stibiobacter]]''&nbsp;– ''[[Streptofusia]]''&nbsp;– ''RA21 methanotroph group''&nbsp;– ''SB1 group''
+
+Candidati (incertae sedis): ''Kapabacteria''&nbsp;– ''Moduliflexus''&nbsp;– ''Ovobacter''&nbsp;– ''Vecturithrix''
+
+==Name==
+Bacteria ''sensu'' Woese et al., 1990
+
+'''Circumscriptional synonyms''' 
+
+*Eubacteria ''sensu'' Woese & Fox, 1977
+*Neobacteria Möhn, 1984
+
+==Classifications==
+:''Main page: [[Bacteria (classifications)]].''
+
+==References==
+* {{aut|Becerra, A.}}; {{aut|Delaye, L.}}; {{aut|Islas, S.}}; {{aut|Lazcano, A.}} 2007: The very early stages of biological evolution and the nature of the last common ancestor of the three major cell domains. ''Annual review of ecology, evolution, and systematics'', 38: 361–379.
+* {{aut|C. Woese, O. Kandler, M. Wheelis}}: Towards a natural system of organisms: proposal for the domains Archaea, Bacteria, and Eucarya. ''Proc. Natl. Acad. Sci. U.S.A.'' 87(12): 4576–9 (1990). PMID 2112744 
+* {{aut|Betsey Dexter Dyer}} A Field Guide to Bacteria (Comstock Book) 2003: Cornell University Press. 355 pp.
+* {{aut|Steel K.J. & S.T. Cowan}} 2004: Cowan and Steel's Manual for the Identification of Medical Bacteria. Cambridge University Press.
+===Links===
+* Tree of Life Web Project. 2006. [http://tolweb.org/Eubacteria/2/2006.03.10 Eubacteria. True Bacteria. Version 10 March 2006 (temporary)] in [http://tolweb.org/ The Tree of Life Web Project]
+* {{NCBI|2}}
+
+==Vernacular names==
+{{VN
+|als=Bakterie
+|ar=بكتيريا
+|ast=Bacteria
+|bar=Bakterien
+|da=Bakterie
+|bs=Bakterije
+|bg=Бактерии
+|br=Bakteri
+|ca=Bacteris
+|cs=Bakterie
+|de=Bakterien
+|el=Bακτήρια
+|en=Bacterium, Eubacterium
+|eo=Bakterioj
+|es=Bacteria
+|et=Bakterid
+|fa=باکتری
+|fi=Bakteerit
+|fr=Bactéries
+|frr=Bakteerien
+|ga=Baictéir
+|gl=Bacteria
+|he=חיידקים אמיתיים
+|hi=जीवाणु
+|hr=Bakterije
+|hu=Baktérium
+|hy=Բակտերիա
+|ia=Bacterios
+|id=Bakteri
+|it=Batteri
+|ja=真正細菌
+|km=វេត្រាណូ
+|ko=세균
+|lt=Bakterijos
+|lv=Baktērijas
+|mk=Бактерии
+|nl=Bacteriën
+|no=Bakterier
+|oc=Bacterias
+|pf=Bakterie
+|pl=Bakterie
+|pt=Bactéria
+|qu=Añaki
+|ro=Bacterii
+|ru=Бактерии
+|sk=Baktérie
+|sl=Bakterije
+|sr=Бактерије
+|sv=Bakterier
+|ta=பாக்டீரியா
+|th=แบคทีเรีย
+|tl=Bakterya
+|tr=Bakteri
+|uk=Бактерії
+|vi=Vi khuẩn
+|yi=באַקטעריעס
+|zh=细菌
+}}
+{{Commonscat}}
