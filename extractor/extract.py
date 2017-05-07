@@ -32,7 +32,20 @@ def filter1(listword):
         else:
             v.append(listword[s])
             a = []
-        
+def get_etoile(lista):
+    a = []
+    for i in range(len(lista)):
+        a.append(lista[i].count('*'))
+    return a
+  
+def remove_car(mot):
+    a = mot.split('*')
+    j = 0
+    while a.count('')!= 0:
+       a = a.remove('')
+       j += 1
+    return a, j
+  
 def filter2(h):
     k = []
     l = []
