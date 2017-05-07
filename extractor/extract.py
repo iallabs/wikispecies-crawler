@@ -15,20 +15,23 @@ def extract_important(file, list_word):
 
                 
 def filter1(listword):
-    for i in listword:
-        h = []
-        a = ''
-        if str(i[2]) == '{':
+    v = []
+    a = []
+    s = 0
+    for s in range(len(listword)-1):
+        if listword[s][2] == '{':
             break
-        for char in i:
-            if str(char) == '*' or str(char) == '[':
-                continue
-            else:
-                if str(char) == ']':
-                    break
-                a += str(char)
-        print (a)
-        h.append(a)
+        if listword[s].count('*') < listword[s+1].count('*'):
+            while listword[s].count('*') < listword[s+1].count('*'):
+                a.append(listword[s])
+                s += 1
+            while listword[s].count('*') == listword[s+1].count('*'):
+                a.append(listword[s])
+                s +=1
+            v.append(a)
+        else:
+            v.append(listword[s])
+            a = []
         
 def filter2(h):
     k = []
