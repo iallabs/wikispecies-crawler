@@ -11,7 +11,7 @@ def extract_important(file, list_word):
                 print (i)
 
                 
-def filter(listword):
+def filter_(listword):
     for i in listword:
         h = []
         a = ''
