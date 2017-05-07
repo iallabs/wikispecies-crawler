@@ -1,5 +1,8 @@
 listspecial = ';[](),{=}'
 listword = []
+list_class = ['Empire', 'Superkingdom','Kingdom' ,'Subkingdom', 'Infrakingdom',
+              'Grade','Superphylum', 'Phylum','Subphylum','Dominion', 
+              'Subdominion', 'Superclass', 'Class', 'Subclass', 'Order', 'group']
 
 
 
