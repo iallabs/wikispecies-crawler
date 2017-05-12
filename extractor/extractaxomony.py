@@ -1,11 +1,12 @@
-from .curl import *
+from .curl import (curl, request)
 
 taxomony_dict = {}
 synonyms = {}
 integers='9876543210'
+unwanted_caracters = '<>/\=!?,;:.-_°"'
 
-
-
+def extract_taxomony_rec(url):
+    pass
 
 
 def listof(file):
