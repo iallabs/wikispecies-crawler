@@ -1,6 +1,12 @@
+from .curl import *
+
 taxomony_dict = {}
 synonyms = {}
 integers='9876543210'
+
+
+
+
 
 def listof(file):
     f = open(file, "r")
