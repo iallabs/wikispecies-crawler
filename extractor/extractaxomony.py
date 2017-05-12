@@ -5,7 +5,11 @@ synonyms = {}
 integers='9876543210'
 unwanted_caracters = '<>/\=!?,;:.-_°"'
 
-def extract_taxomony_rec(url):
+def extract_taxomony_lists(url):
+    pass
+
+
+def extract_universal_taxomony_rec(url, superkingdoms):
     pass
 
 
