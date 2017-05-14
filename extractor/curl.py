@@ -23,9 +23,30 @@ lookfor = ['Superkingdom',
            'Infrakingdom',
            'Subkingdo',
            'Superregnum',
+           'Regna',
            'Regnum',
            'Superphyla',
-           'Phyla']
+           'Phyla',
+           'Phylum',
+           'Subphyla',
+           'Subphylum',
+           'Subdivisio',
+           'Class',
+           'Classes',
+           'Classis',
+           'Subclasses',
+           'Subclass',
+           'Subclassis',
+           'Ordo',
+           'Order',
+           'Ordines'
+           'Subordo',
+           'Suborder',
+           'Familia'
+           'Familiae',
+           'Genera',
+           'Genus',
+           ]
 
 ul_ = b'</ul>'
 li_ = b'</li>'
@@ -36,6 +57,7 @@ href = 'href'
 div = '<div '
 taxonavigation = ['Taxon Navigation', 'Taxonavigation']
 
+import urllib.request
 
 
 class DataCollector(object):
@@ -55,15 +77,13 @@ class DataCollector(object):
         found = False
         taxonomy = []
         etoile = ''
-        count = False
+        name_found = False
         for line in self.curl(link):
-            if found == False and line != b'<h3><span class="mw-headline" id="Ruggiero_et_al._.282015.29">Ruggiero et al. (2015)</span></h3>\n':
-                
+            if found == False and not istaxonavigation(line):
                 continue
             else:
                 found = True
-                if line[0:3] == b'<h3' and count == True:
-                    
+                if line[0:3] == b'<h3' and name_found == True:
                     return taxonomy
 
                 count = True
@@ -92,12 +112,78 @@ class DataCollector(object):
                     taxonomy+=[(etoile, clas, name)]
         return taxonomy
                 
+
+def curl(website):
+        return urllib.request.urlopen(website)                
+
+
+alpha = 'abcdefghijklmnopqrstuvwxyz'
+ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+def extract_path_rec(name):
+    if operatinel(defaultlink+name):
+        # => elements
+        #
+        found = False
+        t=-1
+        name_found = False
+        for line in curl(defaultlink+name):
+            if found == True:
+                if name in line:
+                    name_found = True
+                    for i in lookfor:
+                        if i in line:
+                            name_class = i
+                    continue
                 
+                if line[0] in ALPHA and name_found==True:
+                    clas=''
+                    name =''
+                    
+                    for i in line.decode("utf-8"):
+                        if i==' ':
+                            break
+                        clas+=i
+                    while b'title="' in line:
+                        t = line.index(b'title="')
+                        for i in line.decode("utf-8")[t+7::]:
+                            if i=='"':
+                                break
+                            name += i
+                        names+=[name]
+                        line=line[t+7::]
+                        
+                        
+                    if clas in lookfor:
+                        t = lookfor.index(clas)
+                        t2 = lookfor.index(name_class)
+                        if t - t2>=0:
+                            elements = names
+                            return somme([ somme([[name], [extract_path_rec(defaultlink+name)])]for name in elements])
+                            
 
-    def extract_path_rec(self, link, sample):
-        pass
+             else:
+                 if istaxonavigation(line):
+                     found=True
+
+            
+    else :
+        return []
 
 
+def somme(a):
+    k=[]
+    for i in a:
+        k+=i
+    return k
+        
+def operationel(link):
+    pass
+
+def istaxonavigation(line):
+    pass
+
+defaultlink ='https://species.wikimedia.org/wiki/'
 
 D = DataCollector('https://species.wikimedia.org/wiki/Eukaryota')
 a= D.extract_taxonavigation_2015('https://species.wikimedia.org/wiki/Eukaryota')
