@@ -25,13 +25,14 @@ lookfor = ['Superkingdom',
            'Superregnum',
            'Regna',
            'Regnum',
-           'Divisiones',
-           'Subdivisiones',
            'Superphyla',
            'Phyla',
            'Phylum',
            'Subphyla',
            'Subphylum',
+           'Divisio',
+           'Divisiones',
+           'Subdivisiones',
            'Subdivisio',
            'Classis',
            'Class',
@@ -160,14 +161,14 @@ def extract_path_rec(name):
                             name += i
                         names+=[name]
                         name=''
-                        line=line[t+7::]
+                        line=line[t+6::]
                     
                     
                     if clas in lookfor:
                         t = lookfor.index(clas)
                         t2 = lookfor.index(name_class)
                         if t - t2>0:
-                            return somme([[[etoile(abs(t-t2))+n], extract_path_rec(n)] for n in names])
+                            return somme([[[clas + ' : ' + n], extract_path_rec(n)] for n in names])
                             #return somme([ somme([[(n,), extract_path_rec(n)] for n in names])
 
             else:
@@ -197,18 +198,27 @@ def etoile(n):
         a+='*'
     return a
                                          
-
+def read_matrix(obj,level):
+    if type(obj)==type([]):
+        if len(obj)>1:
+            for i in obj:
+                level+=1
+                read_matrix(i,level)
+        if len(obj)==1:
+            read_matrix(obj[0])
+        
+    else:
+        print(etoile(level) + "  " +obj)
+        
 b_ = b'<h2><span class="mw-headline" id="Taxonavigation">Taxonavigation</span>'
 def istaxonavigation(line):
     return (b_ in line)
 
 defaultlink ='https://species.wikimedia.org/wiki/'
 
-
-for i in (extract_path_rec('Plantae')):
+a=extract_path_rec('Plantae')
+for i in a:
     print(i)
-
-
-
-    
-           
+print("++++++++++++++_________------------°°°°°°°°°°°°°+=============°°°°°+===_°_°+°0=+++++++++++++")
+print('--')
+read_matrix(a)
