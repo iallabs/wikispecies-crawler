@@ -137,12 +137,12 @@ def extract_path_rec(name):
                 if name in line.decode("utf-8"):
                     name_found = True
                     for i in lookfor:
-                        if i in line.decode("utf-8") or i in line.decode("utf-8")[1::]:
+                        if i in line.decode("utf-8"):
                             name_class = i
-                        else:
-                            print(">>>>>> not in ",i)
+                            
                     continue
-                
+                if line.decode("utf-8")[0]=='<':
+                    continue
                 if line.decode("utf-8")[0] in ALPHA and name_found==True:
                     clas=''
                     name =''
@@ -167,10 +167,8 @@ def extract_path_rec(name):
                         t = lookfor.index(clas)
                         t2 = lookfor.index(name_class)
                         if t - t2>0:
-                            return somme([[[n], extract_path_rec(n)] for n in names])
+                            return somme([[[etoile(abs(t-t2))+n], extract_path_rec(n)] for n in names])
                             #return somme([ somme([[(n,), extract_path_rec(n)] for n in names])
-                    else:
-                        print('this class isnt in lookfor', clas)
 
             else:
                 if istaxonavigation(line):
@@ -178,10 +176,12 @@ def extract_path_rec(name):
 
             
     except urllib.error.HTTPError:
-        print('error',name)
         return []
 
     except UnicodeEncodeError:
+        return []
+
+    except ValueError:
         return []
 
 
@@ -191,7 +191,11 @@ def somme(a):
             k+=i
     return k
 
-
+def etoile(n):
+    a=''
+    for i in range(n):
+        a+='*'
+    return a
                                          
 
 b_ = b'<h2><span class="mw-headline" id="Taxonavigation">Taxonavigation</span>'
@@ -201,7 +205,9 @@ def istaxonavigation(line):
 defaultlink ='https://species.wikimedia.org/wiki/'
 
 
-print(extract_path_rec('Plantae'))
+for i in (extract_path_rec('Plantae')):
+    print(i)
+
 
 
     
