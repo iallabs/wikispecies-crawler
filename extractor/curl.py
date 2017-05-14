@@ -21,32 +21,34 @@ def request(website, values):
 lookfor = ['Superkingdom',
            'Kingdom',
            'Infrakingdom',
-           'Subkingdo',
+           'Subkingdom',
            'Superregnum',
            'Regna',
            'Regnum',
+           'Divisiones',
+           'Subdivisiones',
            'Superphyla',
            'Phyla',
            'Phylum',
            'Subphyla',
            'Subphylum',
            'Subdivisio',
+           'Classis',
            'Class',
            'Classes',
-           'Classis',
+           'Subclassis',
            'Subclasses',
            'Subclass',
-           'Subclassis',
            'Ordo',
            'Order',
-           'Ordines'
+           'Ordines',
            'Subordo',
            'Suborder',
-           'Familia'
+           'Familia',
            'Familiae',
            'Genera',
            'Genus',
-           ]
+           'Species']
 
 ul_ = b'</ul>'
 li_ = b'</li>'
@@ -118,77 +120,88 @@ def curl(website):
 
 
 alpha = 'abcdefghijklmnopqrstuvwxyz'
-ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 def extract_path_rec(name):
+    
     try:
         # => elements
         #
         found = False
         t=-1
         name_found = False
+        names=[]
+        name_class=''
         for line in curl(defaultlink+name):
             if found == True:
-                if name in line:
+                if name in line.decode("utf-8"):
                     name_found = True
                     for i in lookfor:
-                        if i in line:
+                        if i in line.decode("utf-8") or i in line.decode("utf-8")[1::]:
                             name_class = i
+                        else:
+                            print(">>>>>> not in ",i)
                     continue
                 
-                if line[0] in ALPHA and name_found==True:
+                if line.decode("utf-8")[0] in ALPHA and name_found==True:
                     clas=''
                     name =''
                     
                     for i in line.decode("utf-8"):
-                        if i==' ':
+                        if i==':' or i==' ':
                             break
                         clas+=i
+                    
                     while b'title="' in line:
                         t = line.index(b'title="')
                         for i in line.decode("utf-8")[t+7::]:
-                            if i=='"':
+                            if i=='"' or i==" ":
                                 break
                             name += i
                         names+=[name]
+                        name=''
                         line=line[t+7::]
-                        
-                        
+                    
+                    
                     if clas in lookfor:
                         t = lookfor.index(clas)
                         t2 = lookfor.index(name_class)
-                        if t - t2>=0:
-                            elements = names
-                            return somme([ somme([[name], extract_path_rec(name))]for name in elements])
-                            
+                        if t - t2>0:
+                            return somme([[[n], extract_path_rec(n)] for n in names])
+                            #return somme([ somme([[(n,), extract_path_rec(n)] for n in names])
+                    else:
+                        print('this class isnt in lookfor', clas)
 
-             else:
-                 if istaxonavigation(line):
-                     found=True
+            else:
+                if istaxonavigation(line):
+                    found=True
 
             
     except urllib.error.HTTPError:
+        print('error',name)
+        return []
+
+    except UnicodeEncodeError:
         return []
 
 
 def somme(a):
     k=[]
     for i in a:
-        k+=i
+            k+=i
     return k
-        
-def operationel(link):
-    pass
 
+
+                                         
+
+b_ = b'<h2><span class="mw-headline" id="Taxonavigation">Taxonavigation</span>'
 def istaxonavigation(line):
-    pass
+    return (b_ in line)
 
 defaultlink ='https://species.wikimedia.org/wiki/'
 
-D = DataCollector('https://species.wikimedia.org/wiki/Eukaryota')
-a= D.extract_taxonavigation_2015('https://species.wikimedia.org/wiki/Eukaryota')
-for i in a:
-    print(i)
+
+print(extract_path_rec('Plantae'))
 
 
     
