@@ -4,7 +4,8 @@ import urllib.request
 def curl(website):
     # website shoulb at the form 'http://google.com/'
     R = urllib.request.urlopen(website)
-    return R.readlines()
+    for i in R:
+        print(i)
 
 
 
@@ -17,3 +18,42 @@ def request(website, values):
     return R.readlines()
     
     
+lookfor = ['Superkingdom',
+           'Kingdom',
+           'Infrakingdom',
+           'Subkingdo',
+           'Superregnum',
+           'Regnum',
+           'Superphyla',
+           'Phyla']
+
+ul_ = '</ul>'
+li_ = '</li>'
+ul = '<ul>'
+li = '</li>'
+title = 'tilte'
+href = 'href'
+div = '<div '
+taxonavigation = ['Taxon Navigation', 'Taxonavigation']
+
+class DataCollector(object):
+
+    def __init__(self, website):
+        self.website = website
+        self.taxonavigation = []
+        self.taxon_history = [[]]
+
+    def curl(self):
+        pass
+
+    def extract_taxon_history(self, link):
+        pass
+
+    def extract_taxonavigation(self):
+        pass
+
+    def extract_path_rec(self, link, order_rules):
+        pass
+
+    
+           
