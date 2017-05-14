@@ -121,7 +121,7 @@ alpha = 'abcdefghijklmnopqrstuvwxyz'
 ALPHA = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 def extract_path_rec(name):
-    if operatinel(defaultlink+name):
+    try:
         # => elements
         #
         found = False
@@ -159,7 +159,7 @@ def extract_path_rec(name):
                         t2 = lookfor.index(name_class)
                         if t - t2>=0:
                             elements = names
-                            return somme([ somme([[name], [extract_path_rec(defaultlink+name)])]for name in elements])
+                            return somme([ somme([[name], extract_path_rec(name))]for name in elements])
                             
 
              else:
@@ -167,7 +167,7 @@ def extract_path_rec(name):
                      found=True
 
             
-    else :
+    except urllib.error.HTTPError:
         return []
 
 
@@ -189,6 +189,7 @@ D = DataCollector('https://species.wikimedia.org/wiki/Eukaryota')
 a= D.extract_taxonavigation_2015('https://species.wikimedia.org/wiki/Eukaryota')
 for i in a:
     print(i)
+
 
     
            
