@@ -1,5 +1,6 @@
 import urllib.request
 # https://docs.python.org/3/howto/urllib2.html
+import pickle
 
 def curl(website):
     # website shoulb at the form 'http://google.com/'
@@ -202,13 +203,13 @@ def read_matrix(obj,level):
     if type(obj)==type([]):
         if len(obj)>1:
             for i in obj:
-                level+=1
-                read_matrix(i,level)
+                read_matrix(i,level+1)
         if len(obj)==1:
-            read_matrix(obj[0])
+            read_matrix(obj[0], level)
         
     else:
-        print(etoile(level) + "  " +obj)
+        if type(obj) ==type('rer'):
+            print(etoile(level) + "  " +obj)
         
 b_ = b'<h2><span class="mw-headline" id="Taxonavigation">Taxonavigation</span>'
 def istaxonavigation(line):
@@ -217,8 +218,9 @@ def istaxonavigation(line):
 defaultlink ='https://species.wikimedia.org/wiki/'
 
 a=extract_path_rec('Plantae')
+pickle.dump(a, open("data.saved", "wb"))
 for i in a:
     print(i)
 print("++++++++++++++_________------------°°°°°°°°°°°°°+=============°°°°°+===_°_°+°0=+++++++++++++")
 print('--')
-read_matrix(a)
+read_matrix(a,0)
