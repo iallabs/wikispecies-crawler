@@ -155,7 +155,7 @@ def extract_path_rec(name):
                         clas+=i
                     
                     while b'title="' in line:
-                        t = line.index(b'title="')
+                        t = line.decode("utf-8").index('title="')
                         for i in line.decode("utf-8")[t+7::]:
                             if i=='"' or i==" ":
                                 break
