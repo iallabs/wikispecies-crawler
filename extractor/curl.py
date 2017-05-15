@@ -217,8 +217,13 @@ def istaxonavigation(line):
 
 defaultlink ='https://species.wikimedia.org/wiki/'
 
-a=extract_path_rec('Plantae')
-pickle.dump(a, open("data.saved", "wb"))
+# /!\ Unremark this if its the first time runing
+# a=extract_path_rec('Plantae')
+# pickle.dump(a, open("data.saved", "wb"))
+
+# use this after data is saved with pickle
+a=pickle.load(open("data.saved", "rb"))
+
 for i in a:
     print(i)
 print("++++++++++++++_________------------°°°°°°°°°°°°°+=============°°°°°+===_°_°+°0=+++++++++++++")
