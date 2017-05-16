@@ -3,7 +3,7 @@ import urllib.request
 import pickle
 
 def curl(website):
-    # website shoulb at the form 'http://google.com/'
+    # website shoulb at the form 'http://google.com'
     R = urllib.request.urlopen(website)
     for i in R:
         print(i)
@@ -134,15 +134,46 @@ def extract_path_rec(name):
         name_found = False
         names=[]
         name_class=''
+        specie_found=False
         for line in curl(defaultlink+name):
+            
+            if specie_found:
+                if line.decode("utf-8")[0] in ALPHA:
+                    clas=''
+                    name =''
+                    
+                    for i in line.decode("utf-8"):
+                        if i==':' or i==' ':
+                            break
+                        clas+=i
+                        
+                    while b'" title="' in line:
+                        t = line.decode("utf-8").index('" title="')
+                        for i in line.decode("utf-8")[t+9::]:
+                            if i == ' ':
+                                i='_'
+                            if i == '(' or i=='"':
+                                break
+                            name+=i
+                        names+=[name[:len(name)-1]]
+                        name=''
+                        line=line[t+8::]
+                    print(clas, '-->' ,names)
+                    return names
+        
             if found == True:
-                if name in line.decode("utf-8"):
+
+                if name in line.decode("utf-8") and not specie_found:
                     name_found = True
                     for i in lookfor:
                         if i in line.decode("utf-8"):
                             name_class = i
-                            
+                            #print(line, 'ENDHERE', 'CLASS',name_class)
+                            if name_class == 'Genus':
+                                specie_found = True
+                    
                     continue
+            
                 if line.decode("utf-8")[0]=='<':
                     continue
                 if line.decode("utf-8")[0] in ALPHA and name_found==True:
@@ -157,17 +188,26 @@ def extract_path_rec(name):
                     while b'title="' in line:
                         t = line.decode("utf-8").index('title="')
                         for i in line.decode("utf-8")[t+7::]:
-                            if i=='"' or i==" ":
+                            if clas != 'Species' and (i == '"' or i == " "):
                                 break
-                            name += i
+                            elif clas == 'Species':
+                                print('SPCIIIES')
+                                if i == ' ':
+                                    i='_'
+                                if i == '"':
+                                    break
+                            name+=i
+                        
                         names+=[name]
                         name=''
                         line=line[t+6::]
                     
-                    
+                    print(clas, ' > ', names)
                     if clas in lookfor:
                         t = lookfor.index(clas)
                         t2 = lookfor.index(name_class)
+                        if t == len(lookfor) - 1:
+                            return [[name] for name in names]
                         if t - t2>0:
                             return somme([[[clas + ' : ' + n], extract_path_rec(n)] for n in names])
                             #return somme([ somme([[(n,), extract_path_rec(n)] for n in names])
@@ -210,7 +250,10 @@ def read_matrix(obj,level):
     else:
         if type(obj) ==type('rer'):
             print(etoile(level) + "  " +obj)
-        
+
+
+
+
 b_ = b'<h2><span class="mw-headline" id="Taxonavigation">Taxonavigation</span>'
 def istaxonavigation(line):
     return (b_ in line)
@@ -218,14 +261,13 @@ def istaxonavigation(line):
 defaultlink ='https://species.wikimedia.org/wiki/'
 
 # /!\ Unremark this if its the first time runing
-# a=extract_path_rec('Plantae')
-# pickle.dump(a, open("data.saved", "wb"))
+a=extract_path_rec('Plantae')
+pickle.dump(a, open("data.saved", "wb"))
 
 # use this after data is saved with pickle
-a=pickle.load(open("data.saved", "rb"))
+#a=pickle.load(open("data.saved", "rb"))
 
 for i in a:
     print(i)
-print("++++++++++++++_________------------°°°°°°°°°°°°°+=============°°°°°+===_°_°+°0=+++++++++++++")
 print('--')
 read_matrix(a,0)
