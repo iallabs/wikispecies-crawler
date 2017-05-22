@@ -154,7 +154,7 @@ def extract_taxon_from_2(name):
 
 ========================================================================================================================
 
->>> extract_taxons_from(https://species.wikimedia.org/wiki/Charophyta, Charophyta)
+>>> extract_taxons_from(https://species.wikimedia.org/wiki/Tracheophyta, Tracheophyta)
 
  ------ TREATING LINE :  Superregnum: 
  ------ TREATING LINE :  Eukaryota
@@ -167,45 +167,66 @@ Regnum:
 NOOONE
  ------ TREATING LINE :  
 Phylum: 
- ------ TREATING LINE :  Charophyta
-taxon found Charophyta
+ ------ TREATING LINE :  Tracheophyta
+taxon found Tracheophyta
  ------ TREATING LINE :  None
 brk
  ------ TREATING LINE :  
-Classes: 
+Divisiones (7 + 3†): 
 found in Taxon LIST ! 
-Classes: 
+Divisiones (7 + 3†): 
 
-Classes:  in taxon strings
- ------ TREATING LINE :  Charophyceae
-added data Charophyceae
+Divisiones (7 + 3†):  in taxon strings
+ ------ TREATING LINE :  Angiosperms
+added data Angiosperms
  ------ TREATING LINE :   - 
 -
- ------ TREATING LINE :  Chlorokybophyceae
-added data Chlorokybophyceae
- ------ TREATING LINE :   - 
+ ------ TREATING LINE :  Cycadophyta
+added data Cycadophyta
+ ------ TREATING LINE :   - 
 -
- ------ TREATING LINE :  Coleochaetophyceae
-added data Coleochaetophyceae
- ------ TREATING LINE :   - 
+ ------ TREATING LINE :  Ginkgophyta
+added data Ginkgophyta
+ ------ TREATING LINE :   - 
 -
- ------ TREATING LINE :  Klebsormidiophyceae
-added data Klebsormidiophyceae
- ------ TREATING LINE :   - 
+ ------ TREATING LINE :  Gnetophyta
+added data Gnetophyta
+ ------ TREATING LINE :   - 
 -
- ------ TREATING LINE :  Mesostigmatophyceae
-added data Mesostigmatophyceae
- ------ TREATING LINE :   - 
+ ------ TREATING LINE :  Lycopodiophyta
+added data Lycopodiophyta
+ ------ TREATING LINE :   - 
 -
- ------ TREATING LINE :  Zygnematophyceae
-added data Zygnematophyceae
- ------ TREATING LINE :  None
-brk
- ------ TREATING LINE :  
-Ordines: 
-found in Taxon LIST ! 
-Ordines: 
+ ------ TREATING LINE :  Pinophyta
+added data Pinophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Pteridophyta
+added data Pteridophyta
+ ------ TREATING LINE :   - †
+-
+ ------ TREATING LINE :  Rhyniophyta
+added data Rhyniophyta
+ ------ TREATING LINE :   - †
+-
+ ------ TREATING LINE :  Trimerophytopsida
+added data Trimerophytopsida
+ ------ TREATING LINE :   – †
+-
+ ------ TREATING LINE :  Pteridospermatophyta
+added data Pteridospermatophyta
 
-Ordines:  in taxon strings
-break
+==========================================================================================
+# Return statement 
+
+Angiosperms /wiki/Angiosperms
+Cycadophyta /wiki/Cycadophyta
+Ginkgophyta /wiki/Ginkgophyta
+Gnetophyta /wiki/Gnetophyta
+Lycopodiophyta /wiki/Lycopodiophyta
+Pinophyta /wiki/Pinophyta
+Pteridophyta /wiki/Pteridophyta
+Rhyniophyta /w/index.php?title=Rhyniophyta&action=edit&redlink=1
+Trimerophytopsida /wiki/Trimerophytopsida
+Pteridospermatophyta /wiki/Pteridospermatophyta
 '''
