@@ -60,36 +60,154 @@ def find_taxon_data(contents, name):
     data = []
     c=0
     for j in contents:
-        print('--------', j)
-        print('--------', taxon_found, c)
         i = j.string
+        '''
+        print('--------', i)
+        print('--------', taxon_found, c)
         if i == '<br/>' or j=='\n':
             print('none')
             continue
+            '''
+        print(' ------ TREATING LINE : ',i)
         if not taxon_found:
             if i is None:
-                print('noooooonnnnneeeee')
-            elif not (name == i[0:len(i)-1]):
-                print('not name', i)
-                continue
-            else:
+                print('NOOONE')
+            elif i[0] == '\n' and len(i)>1:
+                print('i transformation from ',i, 'to', i[1:len(i)-2:])
+                i = i[1:len(i)-1:]
+            elif i[0] == '\n':
+                print('usless tab')
+            elif (name in i):
                 taxon_found = True
                 print('taxon found', i)
         else:
             if not i:
                 print('brk')
                 continue
-            if i[0:len(i)-1] in Taxon_strings:
-                c+=1
-                print(i, 'in taxon strings')
-                if c==2:
-                    print('break')
-                    return data
+            for tax in Taxon_strings:
+                if tax in i:
+                    print('found in Taxon LIST !', i)
+                    c+=1
+                    print(i, 'in taxon strings')
+                    if c==2:
+                        print('break')
+                        return data
+                    break
             else:
-                if i==' - ' or j==' - ':
+                if i == ' - ' or j== ' - ':
                     print('-')
                     continue
                 print('added data', i)
-                data+=[i]
+                data += [i]
                 
     
+'''
+===> https://species.wikimedia.org/wiki/Charophyta
+
+
+Superregnum: 
+Eukaryota
+None
+
+Regnum: 
+Plantae
+None
+
+Phylum: 
+Charophyta
+None
+
+Classes: 
+Charophyceae
+ - 
+Chlorokybophyceae
+ - 
+Coleochaetophyceae
+ - 
+Klebsormidiophyceae
+ - 
+Mesostigmatophyceae
+ - 
+Zygnematophyceae
+None
+
+Ordines: 
+Charales
+ - 
+Chlorokybales
+ - 
+Coleochaetales
+ - 
+Desmidiales
+ - 
+Klebsormidiales
+ - 
+Mesostigmatales
+ - 
+Zygnematales
+
+
+
+========================================================================================================================
+
+
+>>> find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
+ ------ TREATING LINE :  Superregnum: 
+ ------ TREATING LINE :  Eukaryota
+ ------ TREATING LINE :  None
+NOOONE
+ ------ TREATING LINE :  
+Regnum: 
+i transformation from  
+Regnum:  to Regnum
+ ------ TREATING LINE :  Plantae
+ ------ TREATING LINE :  None
+NOOONE
+ ------ TREATING LINE :  
+Phylum: 
+i transformation from  
+Phylum:  to Phylum
+ ------ TREATING LINE :  Charophyta
+taxon found Charophyta
+ ------ TREATING LINE :  None
+brk
+ ------ TREATING LINE :  
+Classes: 
+found in Taxon LIST ! 
+Classes: 
+
+Classes:  in taxon strings
+ ------ TREATING LINE :  Charophyceae
+added data Charophyceae
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Chlorokybophyceae
+added data Chlorokybophyceae
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Coleochaetophyceae
+added data Coleochaetophyceae
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Klebsormidiophyceae
+added data Klebsormidiophyceae
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Mesostigmatophyceae
+added data Mesostigmatophyceae
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Zygnematophyceae
+added data Zygnematophyceae
+ ------ TREATING LINE :  None
+brk
+ ------ TREATING LINE :  
+Ordines: 
+found in Taxon LIST ! 
+Ordines: 
+
+Ordines:  in taxon strings
+break
+['Charophyceae', 'Chlorokybophyceae', 'Coleochaetophyceae', 'Klebsormidiophyceae', 'Mesostigmatophyceae', 'Zygnematophyceae']
+
+'''
