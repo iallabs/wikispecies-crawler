@@ -47,6 +47,10 @@ def curl_p(url):
 
 # Should store a Ref class containing all synonyms of taxon to use in next research
 
+def soup_url(url):
+    return soup.find('h2').next_sibling.next_sibling.contents
+
+
 find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
 
 def find_taxon_data(contents, name):
@@ -72,11 +76,6 @@ def find_taxon_data(contents, name):
         if not taxon_found:
             if i is None:
                 print('NOOONE')
-            elif i[0] == '\n' and len(i)>1:
-                print('i transformation from ',i, 'to', i[1:len(i)-2:])
-                i = i[1:len(i)-1:]
-            elif i[0] == '\n':
-                print('usless tab')
             elif (name in i):
                 taxon_found = True
                 print('taxon found', i)
@@ -104,52 +103,7 @@ def find_taxon_data(contents, name):
 '''
 ===> https://species.wikimedia.org/wiki/Charophyta
 
-
-Superregnum: 
-Eukaryota
-None
-
-Regnum: 
-Plantae
-None
-
-Phylum: 
-Charophyta
-None
-
-Classes: 
-Charophyceae
- - 
-Chlorokybophyceae
- - 
-Coleochaetophyceae
- - 
-Klebsormidiophyceae
- - 
-Mesostigmatophyceae
- - 
-Zygnematophyceae
-None
-
-Ordines: 
-Charales
- - 
-Chlorokybales
- - 
-Coleochaetales
- - 
-Desmidiales
- - 
-Klebsormidiales
- - 
-Mesostigmatales
- - 
-Zygnematales
-
-
-
 ========================================================================================================================
-
 
 >>> find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
  ------ TREATING LINE :  Superregnum: 
@@ -158,15 +112,11 @@ Zygnematales
 NOOONE
  ------ TREATING LINE :  
 Regnum: 
-i transformation from  
-Regnum:  to Regnum
  ------ TREATING LINE :  Plantae
  ------ TREATING LINE :  None
 NOOONE
  ------ TREATING LINE :  
 Phylum: 
-i transformation from  
-Phylum:  to Phylum
  ------ TREATING LINE :  Charophyta
 taxon found Charophyta
  ------ TREATING LINE :  None
@@ -208,6 +158,4 @@ Ordines:
 
 Ordines:  in taxon strings
 break
-['Charophyceae', 'Chlorokybophyceae', 'Coleochaetophyceae', 'Klebsormidiophyceae', 'Mesostigmatophyceae', 'Zygnematophyceae']
-
 '''
