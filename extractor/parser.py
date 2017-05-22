@@ -5,6 +5,31 @@ from pfbiology.core.ref import Ref
 glink = 'https://species.wikimedia.org/'
 wlink = 'https://species.wikimedia.org/wiki/'
 
+Taxon_strings = ['SuperKingdom'
+                    'Kingdom',
+                    'SubKingdom',
+                    'InfraKingdom',
+                    'Regnum',
+                    'SubRegnum',
+                    'Phylum',
+                    'SubPhylum',
+                    'Class',
+                    'SubClass',
+                    'Order',
+                    'SubOrder',
+                    'Familly',
+                    'SubFamilly',
+                    'Tribe',
+                    'SubTribe',
+                    'Genus',
+                    'SubGenus',
+                    'Section',
+                    'SubSection',
+                    'Series',
+                    'SubSeries',
+                    'Species',
+                    'SubSpecies',
+                    'Variety']
 
 def curl_p(url):
     return urllib.request.urlopen(url).readline().decode('utf-8')
@@ -31,11 +56,12 @@ def find_taxon_data(contents, name):
             else:
                 taxon_found = True
         else:
-            if i in Taxon_Strings:
+            if i in Taxon_strings:
                 return data
             else:
                 if i==' - ':
                     continue
                 data+=[i]
+    return data
                 
     
