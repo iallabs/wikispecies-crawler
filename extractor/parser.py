@@ -6,26 +6,6 @@ from pfbiology.core.ref import Ref
 glink = 'https://species.wikimedia.org/'
 wlink = 'https://species.wikimedia.org/wiki/'
 
-class WebLink:
-    def __init__(self, title, href):
-        self.title = title
-        self.href = href
-
-class Extractor:
-    def __init__(self, firstlink):
-        self.link = firstlink
-        self.dat = []
-        
-    def parse_childrens(self):
-        pass
-    
-    def parse_synonyms(self):
-        pass
-
-# recursive
-def extractor(weblink):
-    pass
-        
 Taxon_strings = ['SuperKingdom'
                  'Kingdom',
                  'SubKingdom',
@@ -63,6 +43,34 @@ Taxon_strings = ['SuperKingdom'
                  'Subclasses',
                  'Subclassis']
 
+class WebLink:
+    # can store information about Taxon and it link on the website
+    # this solve the typical synonyms in link problem
+    # see find_taxon_data return statement
+    def __init__(self, title, href):
+        self.title = title
+        self.href = href
+
+class Extractor:
+    def __init__(self, firstlink):
+        self.link = firstlink
+        self.dat = []
+        
+    def parse_childrens(self):
+        pass
+    
+    def parse_synonyms(self):
+        pass
+
+# recursive
+def extractor(weblink):
+    pass
+
+
+
+
+##############################################################################
+
 def curl_p(url):
     return urllib.request.urlopen(url).read().decode('utf-8')
 
@@ -78,8 +86,8 @@ def soup_url(url):
         ln+=[i.string]
     return ln
     '''
-
-find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
+soup = bs4.BeautifulSoup(curl_p('https://species.wikimedia.org/wiki/Tracheophyta'),'html.parser')
+find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Tracheophyta')
 
 def find_taxon_data(contents, name):
     '''
@@ -121,11 +129,13 @@ def find_taxon_data(contents, name):
                         return data
                     break
             else:
-                if i == ' - ' or j== ' - ':
+                if (' - ' in i) or (' - ' in j) or ('†' in i):
                     print('-')
                     continue
                 print('added data', i)
-                data += [i]
+                data += [WebLink(i,j['href'])]
+    # this return a list of WebLink objects so we start exploring the website directly from it href (link)
+    return data
                 
 
                 
