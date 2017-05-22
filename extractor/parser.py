@@ -6,6 +6,26 @@ from pfbiology.core.ref import Ref
 glink = 'https://species.wikimedia.org/'
 wlink = 'https://species.wikimedia.org/wiki/'
 
+class WebLink:
+    def __init__(self, title, href):
+        self.title = title
+        self.href = href
+
+class Extractor:
+    def __init__(self, firstlink):
+        self.link = firstlink
+        self.dat = []
+        
+    def parse_childrens(self):
+        pass
+    
+    def parse_synonyms(self):
+        pass
+
+# recursive
+def extractor(weblink):
+    pass
+        
 Taxon_strings = ['SuperKingdom'
                  'Kingdom',
                  'SubKingdom',
@@ -116,6 +136,9 @@ def extract_taxons_from(url, name):
 # see wlink on top
 def extract_taxon_from_2(name):
     return find_taxon_data(soup_url(wlink+name), name)
+  
+  
+
 '''
 ===> https://species.wikimedia.org/wiki/Charophyta
 
