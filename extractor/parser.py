@@ -43,13 +43,20 @@ Taxon_strings = ['SuperKingdom'
                  'Subclassis']
 
 def curl_p(url):
-    return urllib.request.urlopen(url).readline().decode('utf-8')
+    return urllib.request.urlopen(url).read().decode('utf-8')
 
 # Should store a Ref class containing all synonyms of taxon to use in next research
 
 def soup_url(url):
+    soup = bs4.BeautifulSoup(curl_p(url), 'html.parser')
     return soup.find('h2').next_sibling.next_sibling.contents
-
+    '''
+    ln=[]
+    for i in soup.find('h2').next_sibling.next_sibling.contents:
+        print(i.string)
+        ln+=[i.string]
+    return ln
+    '''
 
 find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
 
@@ -99,13 +106,22 @@ def find_taxon_data(contents, name):
                 print('added data', i)
                 data += [i]
                 
-    
+
+                
+def extract_taxons_from(url, name):
+    return find_taxon_data(soup_url(url), name)
+
+
+# see wlink on top
+def extract_taxon_from_2(name):
+    return find_taxon_data(soup_url(wlink+name), name)
 '''
 ===> https://species.wikimedia.org/wiki/Charophyta
 
 ========================================================================================================================
 
->>> find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Charophyta')
+>>> extract_taxons_from(https://species.wikimedia.org/wiki/Charophyta, Charophyta)
+
  ------ TREATING LINE :  Superregnum: 
  ------ TREATING LINE :  Eukaryota
  ------ TREATING LINE :  None
