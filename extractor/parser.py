@@ -108,7 +108,6 @@ def find_taxon_data(contents, name):
     contents = [i.string for i in target.next_sibling.next_sibling.contents]
     '''
     taxon_found = False
-    nefew_taxon = False
     data = []
     c=0
     class_ = ''
