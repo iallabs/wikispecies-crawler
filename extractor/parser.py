@@ -3,7 +3,7 @@ import bs4
 import urllib.request
 from pfbiology.core.ref import Ref
 
-glink = 'https://species.wikimedia.org/'
+glink = 'https://species.wikimedia.org'
 wlink = 'https://species.wikimedia.org/wiki/'
 
 Taxon_strings = ['SuperKingdom'
@@ -47,9 +47,10 @@ class WebLink:
     # can store information about Taxon and it link on the website
     # this solve the typical synonyms in link problem
     # see find_taxon_data return statement
-    def __init__(self, title, href):
+    def __init__(self, title, href, class_):
         self.title = title
         self.href = href
+        self.class_ = class_
 
 class Extractor:
     def __init__(self, firstlink):
@@ -62,9 +63,20 @@ class Extractor:
     def parse_synonyms(self):
         pass
 
+      
+def somme(a):
+    k=[]
+    for i in a:
+            k+=i
+    return k
+
+
 # recursive
-def extractor(weblink):
-    pass
+def extractor(href):
+    if 'redlink' in weblink:
+        return []
+    elements = extract_taxon_from_3(href)
+    return somme([[[n.class_ + ' : ' + n.title], extractor(n.href)] for n in elements])
 
 
 
@@ -99,6 +111,7 @@ def find_taxon_data(contents, name):
     nefew_taxon = False
     data = []
     c=0
+    class_ = ''
     for j in contents:
         i = j.string
         '''
@@ -120,6 +133,7 @@ def find_taxon_data(contents, name):
                 print('brk')
                 continue
             for tax in Taxon_strings:
+                class_ = tax
                 if tax in i:
                     print('found in Taxon LIST !', i)
                     c+=1
@@ -133,7 +147,7 @@ def find_taxon_data(contents, name):
                     print('-')
                     continue
                 print('added data', i)
-                data += [WebLink(i,j['href'])]
+                data += [WebLink(i, j['href'], class_)]
     # this return a list of WebLink objects so we start exploring the website directly from it href (link)
     return data
                 
@@ -142,10 +156,12 @@ def find_taxon_data(contents, name):
 def extract_taxons_from(url, name):
     return find_taxon_data(soup_url(url), name)
 
-
-# see wlink on top
+# see wlink/glink on top
 def extract_taxon_from_2(name):
     return find_taxon_data(soup_url(wlink+name), name)
+
+def extract_taxon_from_3(name):
+    return find_taxon_data(soup_url(glink+name), name)
   
   
 
