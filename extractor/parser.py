@@ -47,11 +47,12 @@ class WebLink:
     # can store information about Taxon and it link on the website
     # this solve the typical synonyms in link problem
     # see find_taxon_data return statement
-    def __init__(self, title, href, class_):
+    def __init__(self, title, class_ ,href='-optmised ref'):
         self.title = title
         self.href = href
         self.class_ = class_
-
+        
+'''
 class Extractor:
     def __init__(self, firstlink):
         self.link = firstlink
@@ -63,20 +64,22 @@ class Extractor:
     def parse_synonyms(self):
         pass
 
-      
+'''
+
 def somme(a):
     k=[]
     for i in a:
             k+=i
     return k
 
-
+# t=extractor('https://species.wikimedia.org/wiki/Pteridophyta', 'Pteridophyta')
 # recursive
-def extractor(href):
-    if 'redlink' in weblink:
+def extractor(link, name):
+    print('taxon analysis progressing ...', name)
+    if 'redlink' in link:
         return []
-    elements = extract_taxon_from_3(href)
-    return somme([[[n.class_ + ' : ' + n.title], extractor(n.href)] for n in elements])
+    elements = extract_taxon_from(link, name)
+    return somme([[[n.class_ + ' : ' + n.title], extractor(glink+n.href,n.title)] for n in elements])
 
 
 
@@ -146,13 +149,13 @@ def find_taxon_data(contents, name):
                     print('-')
                     continue
                 print('added data', i)
-                data += [WebLink(i, j['href'], class_)]
+                data += [WebLink(i, class_,j['href'])]
     # this return a list of WebLink objects so we start exploring the website directly from it href (link)
     return data
                 
 
                 
-def extract_taxons_from(url, name):
+def extract_taxon_from(url, name):
     return find_taxon_data(soup_url(url), name)
 
 # see wlink/glink on top
@@ -161,7 +164,6 @@ def extract_taxon_from_2(name):
 
 def extract_taxon_from_3(name):
     return find_taxon_data(soup_url(glink+name), name)
-  
   
 
 '''
