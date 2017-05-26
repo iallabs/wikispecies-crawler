@@ -1,96 +1,249 @@
-l=[('*', 'Kingdom', 'Plantae'),
-   ('**', 'Phylum', 'Algae'),
-   ('**', 'Phylum', 'Bryophyta'),
-   ('***', 'SubPhylum', 'Bryopsida'),
-   ('**', 'Phylum', 'Cracophyta'),
-   ('**', 'Phylum', 'Cinqophyta'),
-   ('***', 'Order', 'Pitana')]
 
-import pickle
+import bs4
+import urllib.request
+from pfbiology.core.ref import Ref
 
-d = {'Divisiones' : 'Phylum',
-     'Subdivisiones' : 'SubPhylum',
-     'Ordines' : 'Order',
-     'Familia' : 'Familly',
-     'Ordo' : 'Order',
-     'Familiae' : 'Familly',
-     'Genera' : 'Genus',
-     'Classis' : 'Class',
-     'Classes' : 'Class',
-     'Subclasses' : 'SubClass',
-     'Subclassis' : 'SubClass'}
-     
-lk=[]
-#a=pickle.load(open("data.saved", "rb"))
+glink = 'https://species.wikimedia.org'
+wlink = 'https://species.wikimedia.org/wiki/'
 
-data = open('plantae.txt', 'r')
+Taxon_strings = ['SuperKingdom'
+                 'Kingdom',
+                 'SubKingdom',
+                 'InfraKingdom',
+                 'Regnum',
+                 'SubRegnum',
+                 'Phylum',
+                 'SubPhylum',
+                 'Class',
+                 'SubClass',
+                 'Order',
+                 'SubOrder',
+                 'Familly',
+                 'SubFamilly',
+                 'Tribe',
+                 'SubTribe',
+                 'Genus',
+                 'SubGenus',
+                 'Section',
+                 'SubSection',
+                 'Series',
+                 'SubSeries',
+                 'Species',
+                 'SubSpecies',
+                 'Variety',
+                 'Divisiones',
+                 'Subdivisiones',
+                 'Ordines',
+                 'Familia',
+                 'Ordo',
+                 'Familiae',
+                 'Genera',
+                 'Classis',
+                 'Classes',
+                 'Subclasses',
+                 'Subclassis']
 
-def transf_ligne(line):
-    global d
-    l = line.split(' ')
-    if '_' in line:
-        return (l[0], 'species', 'nan')
-    if l[2] in list(d.keys()):
-        return (l[0], d[l[2]], l[4][:len(l[4])-1])
-    return (l[0], l[2], l[4][:len(l[4])-1])
-
-
-
-for i in data.readlines():
-    lk+=[transf_ligne(i)]
-
-
-#for i in range(0, len(lk)):
-    #print(lk[i])
+class WebLink:
+    # can store information about Taxon and it link on the website
+    # this solve the typical synonyms in link problem
+    # see find_taxon_data return statement
+    def __init__(self, title, class_ ,href='-optmised ref'):
+        self.title = title
+        self.href = href
+        self.class_ = class_
         
-
-def trans(fil):
-    ln=[]
-    for i in fil:
-        ln+=[transf_ligne(i)]
-    return ln
-
-ln = []
-
-def etoile(n):
-    a=''
-    for i in range(n):
-        a+='*'
-    return a
-                                         
-
-def write_matrix(obj, level):
-    global ln
-    if type(obj)==type([]):
-        if len(obj)>1:
-            for i in obj:
-                write_matrix(i,level+1)
-        if len(obj)==1:
-            write_matrix(obj[0], level)
-        
-    else:
-        if type(obj) ==type('rer'):
-            ln+=[etoile(level) + "  " +obj]
-            
-from pfbiology.factory.constructor import Constructor
-
-#c=Constructor(trans(a))
-#write_matrix(lk, 0)
-#print(list(d.keys()))
-#mn = trans(ln)
 '''
-for i in trans(ln):
-    print(i)
+class Extractor:
+    def __init__(self, firstlink):
+        self.link = firstlink
+        self.dat = []
+        
+    def parse_childrens(self):
+        pass
+    
+    def parse_synonyms(self):
+        pass
+
+'''
+
+def somme(a):
+    k=[]
+    for i in a:
+            k+=i
+    return k
+
+# t=extractor('https://species.wikimedia.org/wiki/Pteridophyta', 'Pteridophyta')
+# recursive
+def extractor(link, name):
+    print('taxon analysis progressing ...', name)
+    if 'redlink' in link:
+        return []
+    elements = extract_taxon_from(link, name)
+    return somme([[[n.class_ + ' : ' + n.title], extractor(glink+n.href,n.title)] for n in elements])
+
+
+
+
+##############################################################################
+
+def curl_p(url):
+    return urllib.request.urlopen(url).read().decode('utf-8')
+
+# Should store a Ref class containing all synonyms of taxon to use in next research
+
+def soup_url(url):
+    soup = bs4.BeautifulSoup(curl_p(url), 'html.parser')
+    return soup.find('h2').next_sibling.next_sibling.contents
     '''
-#ln=trans(ln)
-c=Constructor(lk)
-#for i in trans(ln):
-#    print(i)
-#print(c.head.branches)
-print(c.head)
-print(c.head.subclasses)
-for i in c.head.subclasses:
-    print(i.subclasses)
-#print(c._args)
-for i in c.head.subclasses[1].subclasses:
-    print(i, i.calculate_cousins())
+    ln=[]
+    for i in soup.find('h2').next_sibling.next_sibling.contents:
+        print(i.string)
+        ln+=[i.string]
+    return ln
+    '''
+soup = bs4.BeautifulSoup(curl_p('https://species.wikimedia.org/wiki/Tracheophyta'),'html.parser')
+find_taxon_data(soup.find('h2').next_sibling.next_sibling.contents, 'Tracheophyta')
+
+def find_taxon_data(contents, name):
+    '''
+    soup = bs4.BeautifulSoup(wlink+name)
+    target = soup.find('h2')
+    contents = [i.string for i in target.next_sibling.next_sibling.contents]
+    '''
+    taxon_found = False
+    data = []
+    c=0
+    class_ = ''
+    for j in contents:
+        i = j.string
+        '''
+        print('--------', i)
+        print('--------', taxon_found, c)
+        if i == '<br/>' or j=='\n':
+            print('none')
+            continue
+            '''
+        print(' ------ TREATING LINE : ',i)
+        if not taxon_found:
+            if i is None:
+                print('NOOONE')
+            elif (name in i):
+                taxon_found = True
+                print('taxon found', i)
+        else:
+            if not i:
+                print('brk')
+                continue
+            for tax in Taxon_strings:
+                class_ = tax
+                if tax in i:
+                    print('found in Taxon LIST !', i)
+                    c+=1
+                    print(i, 'in taxon strings')
+                    if c==2:
+                        print('break')
+                        return data
+                    break
+            else:
+                if (' - ' in i) or (' - ' in j) or ('†' in i):
+                    print('-')
+                    continue
+                print('added data', i)
+                data += [WebLink(i, class_,j['href'])]
+    # this return a list of WebLink objects so we start exploring the website directly from it href (link)
+    return data
+                
+
+                
+def extract_taxon_from(url, name):
+    return find_taxon_data(soup_url(url), name)
+
+# see wlink/glink on top
+def extract_taxon_from_2(name):
+    return find_taxon_data(soup_url(wlink+name), name)
+
+def extract_taxon_from_3(name):
+    return find_taxon_data(soup_url(glink+name), name)
+  
+
+'''
+===> https://species.wikimedia.org/wiki/Charophyta
+
+========================================================================================================================
+
+>>> extract_taxons_from(https://species.wikimedia.org/wiki/Tracheophyta, Tracheophyta)
+
+ ------ TREATING LINE :  Superregnum: 
+ ------ TREATING LINE :  Eukaryota
+ ------ TREATING LINE :  None
+NOOONE
+ ------ TREATING LINE :  
+Regnum: 
+ ------ TREATING LINE :  Plantae
+ ------ TREATING LINE :  None
+NOOONE
+ ------ TREATING LINE :  
+Phylum: 
+ ------ TREATING LINE :  Tracheophyta
+taxon found Tracheophyta
+ ------ TREATING LINE :  None
+brk
+ ------ TREATING LINE :  
+Divisiones (7 + 3†): 
+found in Taxon LIST ! 
+Divisiones (7 + 3†): 
+
+Divisiones (7 + 3†):  in taxon strings
+ ------ TREATING LINE :  Angiosperms
+added data Angiosperms
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Cycadophyta
+added data Cycadophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Ginkgophyta
+added data Ginkgophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Gnetophyta
+added data Gnetophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Lycopodiophyta
+added data Lycopodiophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Pinophyta
+added data Pinophyta
+ ------ TREATING LINE :   - 
+-
+ ------ TREATING LINE :  Pteridophyta
+added data Pteridophyta
+ ------ TREATING LINE :   - †
+-
+ ------ TREATING LINE :  Rhyniophyta
+added data Rhyniophyta
+ ------ TREATING LINE :   - †
+-
+ ------ TREATING LINE :  Trimerophytopsida
+added data Trimerophytopsida
+ ------ TREATING LINE :   – †
+-
+ ------ TREATING LINE :  Pteridospermatophyta
+added data Pteridospermatophyta
+
+==========================================================================================
+# Return statement 
+
+Angiosperms /wiki/Angiosperms
+Cycadophyta /wiki/Cycadophyta
+Ginkgophyta /wiki/Ginkgophyta
+Gnetophyta /wiki/Gnetophyta
+Lycopodiophyta /wiki/Lycopodiophyta
+Pinophyta /wiki/Pinophyta
+Pteridophyta /wiki/Pteridophyta
+Rhyniophyta /w/index.php?title=Rhyniophyta&action=edit&redlink=1
+Trimerophytopsida /wiki/Trimerophytopsida
+Pteridospermatophyta /wiki/Pteridospermatophyta
+'''
