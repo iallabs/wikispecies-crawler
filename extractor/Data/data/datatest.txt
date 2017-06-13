@@ -1,0 +1,102 @@
+*  Divisiones : Charophyta
+**  Classes : Charophyceae
+***  Ordines : Charales
+****  Familia : Characeae
+*****  Genera : Chara
+*****  Genera : Lamprothamnium
+*****  Genera : Lychnothamnus
+*****  Genera : Nitella
+******  Nitella_confervacea
+******  Nitella_flexilis
+******  Nitella_opaca
+******  Nitella_translucens
+*****  Genera : Tolypella
+******  Tolypella_canadensi
+******  Tolypella_nidific
+***  Ordines : Coleochaetales
+****  Familia : Coleochaetaceae
+*****  Genera : Coleochaete
+*****  Genera : Phyllactidium
+**  Classes : Chlorokybophyceae
+**  Classes : Coleochaetophyceae
+**  Classes : Klebsormidiophyceae
+***  Ordo : Klebsormidiales
+****  Familia : Klebsormidiaceae
+*****  Genera : Chlorokybus
+*****  Chlorokybus_atmophyticu
+*****  Genera : Entransia
+******  Entransia_dichloroplastes
+******  Entransia_fimbriata
+*****  Genera : Hormidiella
+******  Hormidiella_attenuata
+******  Hormidiella_parvula
+*****  Genera : Klebsormidium
+******  Klebsormidium_acidophilum
+******  Klebsormidium_bilatum
+******  Klebsormidium_crenulatum
+******  Klebsormidium_dissectum
+******  Klebsormidium_drouetii
+******  Klebsormidium_elegans
+******  Klebsormidium_flaccidum
+******  Klebsormidium_fluitans
+******  Klebsormidium_fragile
+******  Klebsormidium_klebsii
+******  Klebsormidium_lamellosum
+******  Klebsormidium_montanum
+******  Klebsormidium_mucosum
+******  Klebsormidium_nitens
+******  Klebsormidium_pseudostichococcus
+******  Klebsormidium_scopulinum
+******  Klebsormidium_sterile
+******  Klebsormidium_subtile
+******  Klebsormidium_subtilissimum
+******  Klebsormidium_tribonematoideum
+**  Classes : Mesostigmatophyceae
+**  Classes : Zygnematophyceae
+***  Ordines : Desmidiales
+****  Familiae : Closteriaceae
+*****  Genera : Closterium
+*****  Genera : Echinella
+*****  Genera : Spinoclosterium
+****  Familiae : Desmidiaceae
+*****  Genera : Actinotaenium
+*****  Genera : Allorgeia
+*****  Genera : Amscottia
+*****  Genera : Arthrodesmus
+*****  Genera : Bambusina
+*****  Genera : Bourellyodesmus
+*****  Genera : Cosmarium
+*****  Genera : Cosmocladium
+*****  Genera : Croasdalea
+*****  Genera : Cruciangulum
+*****  Genera : Desmidium
+*****  Desmidium_bengalicu
+*****  Genera : Docidium
+*****  Genera : Euastrum
+*****  Genera : Groenbladia
+*****  Genera : Haplotaenium
+*****  Genera : Heimansia
+*****  Genera : Hyalotheca
+*****  Genera : Ichthyocercus
+*****  Genera : Ichthyodontum
+*****  Genera : Micrasterias
+******  Micrasterias_abrupta
+******  Micrasterias_adscendens
+******  Micrasterias_alata
+******  Micrasterias_americana
+******  Micrasterias_ampullacea
+******  Micrasterias_anomala
+******  Micrasterias_apiculata
+******  Micrasterias_arcuata
+******  Micrasterias_borgei
+******  Micrasterias_brachyptera
+******  Micrasterias_ceratofera
+******  Micrasterias_conferta
+******  Micrasterias_crux-melitensis
+******  Micrasterias_decemdentata
+******  Micrasterias_denticulata
+******  Micrasterias_doveri
+******  Micrasterias_excavata
+******  Micrasterias_fimbriata
+******  Micrasterias_foliacea
+******  Micrasterias_furcat
