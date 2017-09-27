@@ -1,9 +1,12 @@
-## [ Python for biology ] Data Extractor
+## Wiki Species Data Extractor
 
-PFB data base extractor
+
+Parsers for : https://species.wikimedia.org/wiki/Main_Page
+Parsing all sub-species for any given species or taxon group
+
 
 ### Contributions
 
-##### El bouchti Alaa
+###### El bouchti Alaa
 
-##### Hilaly Mohammed-Amine
+###### Hilaly Mohammed-Amine
